@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.95.87.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713388353306
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713390687079
+  login: 1713386580506
+  kits:
+    base: 1713388451956
+money: '921.621425000000466320'
+last-account-name: YoPMaNYTB
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3618.168635080292
+  y: 64.0
+  z: -4997.695938871398
+  yaw: 6.406628131866455
+  pitch: 12.228497505187988
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -179.5210418701172
+  pitch: 10.373286247253418
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -792.6999999880791
+    y: 59.0
+    z: -2365.300000011921
+    yaw: 179.3151092529297
+    pitch: 13.466913223266602

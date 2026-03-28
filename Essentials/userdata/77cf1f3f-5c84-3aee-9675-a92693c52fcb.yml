@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.100.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723249856627
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723249967532
+  login: 1723249560184
+money: '0'
+last-account-name: Hodoooo
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 11.990898065479739
+  y: 65.0
+  z: -6.149262083458449
+  yaw: 63.7081298828125
+  pitch: -9.31267261505127
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 13.514121168732924
+  y: 64.0
+  z: -80.2541935576427
+  yaw: -82.3505630493164
+  pitch: 6.449989318847656

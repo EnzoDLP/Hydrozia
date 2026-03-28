@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.177.108.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724959659420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724960078791
+  login: 1724955345270
+  kits:
+    base: 1724955766965
+money: '62260.865999999558466822'
+last-account-name: frogteam12
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 8.948002926339043
+  y: 65.5
+  z: 6.315963745857153
+  yaw: -123.11512756347656
+  pitch: 42.55891799926758
+logoutlocation:
+  world: 88ebfc47-ed7d-4fc8-bd35-d17f23832ab1
+  world-name: world_build
+  x: -410.8045324784114
+  y: -60.0
+  z: 262.75775161482517
+  yaw: -42.15313720703125
+  pitch: 25.977407455444336
+homes:
+  bear:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4879.429269893563
+    y: -48.0
+    z: 4995.404324193219
+    yaw: 137.8936767578125
+    pitch: 7.969194412231445
+  bp:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1400.6283676611627
+    y: -53.0
+    z: 1928.3262047232072
+    yaw: 100.58953857421875
+    pitch: 75.89887237548828
+  lave:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1340.300000011921
+    y: -48.0
+    z: -1344.699999988079
+    yaw: -132.16229248046875
+    pitch: 27.163183212280273

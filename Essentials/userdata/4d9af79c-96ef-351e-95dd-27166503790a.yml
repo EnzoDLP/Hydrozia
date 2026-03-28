@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.67.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723561723652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723561780761
+  login: 1723561539152
+money: '0'
+last-account-name: soucie
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 175.90809631347656
+  pitch: 38.98731994628906
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 11.300000011920929
+  y: 76.0
+  z: 21.07499998807907
+  yaw: 11.698579788208008
+  pitch: 13.649624824523926

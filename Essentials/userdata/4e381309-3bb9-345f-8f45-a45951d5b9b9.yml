@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.126.173.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713099467513
+  login: 1713098205331
+money: '2.56800000000000021'
+last-account-name: CousCous_Gentil
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -200.84555579676572
+  y: 66.0
+  z: -2628.2858365299844
+  yaw: 46.37730407714844
+  pitch: 3.7500462532043457
+homes:
+  home:
+    world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+    world-name: world_resources
+    x: -201.42433729197205
+    y: 65.0
+    z: -2575.001398269938
+    yaw: -98.0745849609375
+    pitch: 8.999890327453613
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 8.67762622656478
+  y: 65.0
+  z: -10.952677150568935
+  yaw: -135.7499542236328
+  pitch: -13.05014705657959

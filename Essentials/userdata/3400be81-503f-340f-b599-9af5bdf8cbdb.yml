@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.234.12.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718928267429
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718997363960
+  login: 1718993058843
+  kits:
+    base: 1718926019385
+money: '660.88750000000002706'
+last-account-name: ninosh
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -6.96467628580346
+  y: 66.0
+  z: 31.440117930889564
+  yaw: -75.638916015625
+  pitch: 19.0371150970459
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -978.0404023246205
+  y: -59.0
+  z: 2365.9488363945266
+  yaw: 136.716796875
+  pitch: -4.501312255859375

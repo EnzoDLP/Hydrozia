@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.57.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718031975363
+  login: 1718031961497
+money: '0.20'
+last-account-name: LeoLotania
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.31744819217653497
+  y: 65.0
+  z: 19.162252444283894
+  yaw: -167.288330078125
+  pitch: -4.212671279907227
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: -156.64231872558594
+  pitch: 12.437312126159668

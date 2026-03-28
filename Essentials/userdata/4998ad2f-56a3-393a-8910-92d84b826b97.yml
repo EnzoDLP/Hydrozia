@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.92.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722710424535
+  login: 1722710323122
+  kits:
+    base: 1719396498712
+money: '6.87000000000000048'
+last-account-name: ungarslenda
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 15.77849563973537
+  y: 66.0
+  z: 12.439374588092706
+  yaw: -137.2918701171875
+  pitch: -64.66265869140625
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: -140.7420196533203
+  pitch: -50.562686920166016

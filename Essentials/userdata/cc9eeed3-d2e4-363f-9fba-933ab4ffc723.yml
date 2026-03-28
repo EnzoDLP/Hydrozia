@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 169.150.218.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714477869719
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714477932938
+  login: 1714477892969
+money: '0'
+last-account-name: camion_chou56
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.5213791552455307
+  y: 68.0
+  z: 0.21163912819710892
+  yaw: -84.304443359375
+  pitch: 17.81871223449707
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -581.1661920575326
+  y: 56.0
+  z: -705.0867059291905
+  yaw: 96.51995086669922
+  pitch: 41.202415466308594

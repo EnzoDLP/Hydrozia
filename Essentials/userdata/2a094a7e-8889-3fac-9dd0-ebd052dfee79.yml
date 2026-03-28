@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.164.251.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713888999435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713889012875
+  login: 1713887060562
+money: '609.560499999999999255'
+last-account-name: pzpz31
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 560.4668630842132
+  y: 63.0
+  z: 984.4303851380208
+  yaw: -50.438026428222656
+  pitch: 53.25008773803711
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -7.248320994053546
+  y: 65.0
+  z: -11.349536418893388
+  yaw: -50.44194793701172
+  pitch: 11.687314987182617

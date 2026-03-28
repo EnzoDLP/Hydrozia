@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.113.218.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716660235444
+  login: 1716660217627
+money: '0'
+last-account-name: zeldus_
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.1422927873273647
+  y: 67.0
+  z: 0.8055032801249672
+  yaw: 167.2081756591797
+  pitch: 10.78731632232666

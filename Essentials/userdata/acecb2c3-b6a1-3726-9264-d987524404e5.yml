@@ -1,0 +1,89 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.185.165.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718437757150
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718437884963
+  login: 1718437866200
+  kits:
+    base: 1715288662284
+money: '0.595949999891851898'
+last-account-name: droguezz
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 5.686867529246938
+  y: 65.5
+  z: -13.714823048224186
+  yaw: -122.29257202148438
+  pitch: 5.987311363220215
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -7278.5733304891355
+  y: 63.0000001
+  z: 2308.137051573748
+  yaw: -178.69302368164062
+  pitch: 16.819499969482422
+homes:
+  bp:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -3573.6531915562337
+    y: -60.0
+    z: -3074.699999988079
+    yaw: -173.27392578125
+    pitch: -19.34971046447754
+  viviloin:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -33740.74161477362
+    y: 71.0
+    z: 216.1512609599591
+    yaw: 74.0842056274414
+    pitch: 19.350296020507812
+  bpsama:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4194.699999988079
+    y: -59.0
+    z: 2796.941363885153
+    yaw: 179.1173553466797
+    pitch: 11.168464660644531
+  bpstuffajsaispaski:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: 4621.264552028635
+    y: 106.0
+    z: -6200.712359367192
+    yaw: 9.296095848083496
+    pitch: 5.399130821228027
+  home:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: 4637.62693141773
+    y: 71.0
+    z: -6286.607432436165
+    yaw: 8.55084228515625
+    pitch: -14.700931549072266
+  farm:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -7278.17697044219
+    y: 63.0
+    z: 2307.2972169674654
+    yaw: 166.00875854492188
+    pitch: 4.3694634437561035

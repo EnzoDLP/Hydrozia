@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.149.169.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715189325656
+  login: 1715187953037
+money: '133.74399999999999853'
+last-account-name: Foxpilou
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -0.41984883631637626
+  y: 69.0
+  z: -4.829399332856478
+  yaw: -168.45008850097656
+  pitch: 3.900029182434082
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 1457.300000011921
+  y: 80.0
+  z: -1081.300000011921
+  yaw: -12.4910888671875
+  pitch: 49.0493278503418

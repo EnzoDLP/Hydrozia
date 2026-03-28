@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.61.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718613149731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718789579940
+  login: 1718789458632
+  kits:
+    base: 1717877437049
+money: '2122665.244750000008342393'
+last-account-name: Yozui
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4978.476022509316
+  y: -55.0
+  z: -4978.8763121961965
+  yaw: -130.23635864257812
+  pitch: 14.99992561340332
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 9.432044230386305
+  y: 66.0
+  z: -12.531839306904317
+  yaw: -43.93891143798828
+  pitch: 10.464775085449219
+homes:
+  pillage:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 5003.527414125389
+    y: -54.0
+    z: -4993.141874213619
+    yaw: 167.48193359375
+    pitch: 6.775116920471191

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.112.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721850629364
+  login: 1721850100755
+money: '0'
+last-account-name: RedHeadSteams
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 212.57915819304296
+  y: 63.0
+  z: 0.837221748366138
+  yaw: 35.960693359375
+  pitch: -9.750003814697266

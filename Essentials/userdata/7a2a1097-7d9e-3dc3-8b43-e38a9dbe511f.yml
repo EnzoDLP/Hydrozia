@@ -1,0 +1,122 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.107.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718741433331
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718741472446
+  login: 1718741145181
+  kits:
+    base: 1713036726720
+    vip: 1718035707799
+money: '0.714674999727151477'
+last-account-name: Sama_Escrobar
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4891.5
+  y: -58.9999999
+  z: 4997.5
+  yaw: -107.94657135009766
+  pitch: -16.90045928955078
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -179.3079833984375
+  pitch: 0.32096338272094727
+homes:
+  nether:
+    world: a3d1663b-6338-4c9e-a980-453eef0b3a77
+    world-name: world_nether
+    x: -6140.440565108113
+    y: 128.0
+    z: 7104.028090515328
+    yaw: -142.729736328125
+    pitch: 3.554325580596924
+  bpp:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 5004.431224420773
+    y: -58.0
+    z: -5007.699999988079
+    yaw: 0.33331298828125
+    pitch: 40.79621505737305
+  koth:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -145.69654670307477
+    y: 81.0
+    z: -117.30000001192093
+    yaw: -140.7810516357422
+    pitch: 30.662841796875
+  raid:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4891.772388065545
+    y: -59.0
+    z: 4997.558103821733
+    yaw: -75.85005950927734
+    pitch: 30.476999282836914
+  sable:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -10842.840425212591
+    y: 67.0
+    z: -10264.576929257319
+    yaw: -122.52703857421875
+    pitch: 14.984881401062012
+  mine:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -3095.242889390028
+    y: 18.0
+    z: -6374.405812709964
+    yaw: 20.556488037109375
+    pitch: 24.87271499633789
+  cheh:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4575.8678252443115
+    y: 113.0
+    z: 3691.125878389838
+    yaw: 44.33425521850586
+    pitch: 29.60556411743164
+  pnj:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -7271.3564291856665
+    y: 71.0
+    z: 2278.699999988079
+    yaw: -179.3082733154297
+    pitch: 7.389399528503418
+  wiper:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -8401.516198312416
+    y: 71.0
+    z: -849.8921832365011
+    yaw: -5.7027587890625
+    pitch: 9.990509986877441
+  farmorbearco:
+    world: a3d1663b-6338-4c9e-a980-453eef0b3a77
+    world-name: world_nether
+    x: -6031.37645167296
+    y: 128.0
+    z: 7059.601509978288
+    yaw: -179.27789306640625
+    pitch: -6.158441066741943

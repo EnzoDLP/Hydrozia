@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 216.128.23.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724599934436
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724601055492
+  login: 1724598239435
+money: '270.629000000000002626'
+last-account-name: Zozodyak
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1287.503879378297
+  y: 79.0
+  z: 1856.8251781464412
+  yaw: -29.41845703125
+  pitch: 5.100055694580078
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 16.49274192030274
+  y: 67.0
+  z: -12.481053587045139
+  yaw: -164.2913360595703
+  pitch: 22.1872615814209
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 2.7498071064436385
+    y: 68.0625
+    z: -1.3788363497471372
+    yaw: -167.29129028320312
+    pitch: 17.687271118164062

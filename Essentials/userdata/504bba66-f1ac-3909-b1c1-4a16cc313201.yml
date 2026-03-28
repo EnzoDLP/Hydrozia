@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.170.115.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719936891511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720017649615
+  login: 1720017492669
+  kits:
+    base: 1720017515618
+money: '24.35149999999999961'
+last-account-name: 663_kupiix
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.2658723748875451
+  y: 65.0
+  z: -16.454809646268814
+  yaw: -170.10328674316406
+  pitch: 4.273979663848877
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -15.772848411742943
+  y: 66.0
+  z: -18.84447293873348
+  yaw: -31.8171329498291
+  pitch: 29.120067596435547

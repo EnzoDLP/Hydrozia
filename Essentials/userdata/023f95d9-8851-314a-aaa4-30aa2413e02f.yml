@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.120.116.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714145500002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714145916574
+  login: 1714142318452
+money: '35.721499999999999270'
+last-account-name: jiji
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3.169869718204471
+  y: 65.0
+  z: 19.27628359211373
+  yaw: 103.1484375
+  pitch: -1.5
+lastlocation:
+  world: 4288ef58-defa-484d-ac0f-c09cdbebbb77
+  world-name: world_nether
+  x: -15.358872295998673
+  y: 28.0
+  z: 73.35837047181684
+  yaw: -138.74957275390625
+  pitch: 16.350261688232422

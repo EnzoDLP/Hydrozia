@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.66.28.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718915607845
+  login: 1718915472729
+money: '9.85500000000000021'
+last-account-name: EnixtraV2
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -2565.699999988079
+  y: 71.0
+  z: 1531.6921462547089
+  yaw: -106.94709777832031
+  pitch: 5.100053310394287
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -868.274945648056
+  y: 68.0
+  z: -1626.5929075657523
+  yaw: 108.74769592285156
+  pitch: 9.899886131286621

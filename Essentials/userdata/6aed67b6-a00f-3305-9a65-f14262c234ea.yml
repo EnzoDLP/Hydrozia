@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.163.172.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721918409039
+  login: 1721918394578
+  kits:
+    base: 1721242551826
+money: '76.556000000000000735'
+last-account-name: Frontenac
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.9048953342070953
+  y: 67.0
+  z: 0.5106704469010644
+  yaw: 65.95797729492188
+  pitch: 38.53731918334961
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -21.57136197226637
+  y: 66.0
+  z: 4.43565521980167
+  yaw: -42.3436279296875
+  pitch: 15.287272453308105

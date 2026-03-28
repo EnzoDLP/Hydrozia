@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.193.208.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713897839184
+  login: 1713896232250
+money: '0'
+last-account-name: Tictou
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 838.6289318657786
+  y: -59.0
+  z: -1405.3555375262642
+  yaw: 159.36773681640625
+  pitch: 6.0000104904174805
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 360.7965122584793
+  y: 86.5625
+  z: -1275.454288898946
+  yaw: 99.21932983398438
+  pitch: 16.649978637695312

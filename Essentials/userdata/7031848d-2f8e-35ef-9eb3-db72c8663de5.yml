@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.179.48.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717429025149
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721510834684
+  login: 1721510767375
+  kits:
+    base: 1717428962254
+money: '0'
+last-account-name: Master_Z212
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.3679352278137436
+  y: 70.77684382737752
+  z: 3.2775865495764
+  yaw: 37.293251037597656
+  pitch: 23.671512603759766
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

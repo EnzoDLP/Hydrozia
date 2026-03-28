@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.172.143.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719562460055
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719650298773
+  login: 1719650197707
+money: '0'
+last-account-name: MarineRD
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 5.7314795429274765
+  y: 69.0
+  z: -7.395496897368311
+  yaw: -64.20101165771484
+  pitch: 2.6999974250793457
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 1243.4801061695332
+  y: 75.0
+  z: -910.616955744674
+  yaw: -111.00098419189453
+  pitch: 9.900001525878906

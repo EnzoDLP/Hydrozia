@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.171.30.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720813648631
+  login: 1720813194922
+money: '0'
+last-account-name: gartizr
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.011298981429975489
+  y: 66.0
+  z: -43.126137806685705
+  yaw: 154.4585418701172
+  pitch: 11.987266540527344
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 813.4414896120196
+  y: 103.0
+  z: 1590.969983485989
+  yaw: -177.48924255371094
+  pitch: 19.93739891052246

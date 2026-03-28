@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.154.194.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713702940200
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720195726557
+  login: 1720195714307
+  kits:
+    vip: 1713703056098
+money: '1187.697250000000053457'
+last-account-name: drakzzy37
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 573.3928177315631
+  y: -62.0
+  z: 2473.699999988079
+  yaw: 71.16375732421875
+  pitch: -24.061630249023438
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.00000019999999
+  z: 0.5
+  yaw: 155.8370819091797
+  pitch: 15.695821762084961

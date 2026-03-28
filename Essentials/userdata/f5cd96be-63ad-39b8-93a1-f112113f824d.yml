@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.215.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720558485177
+  login: 1720558387768
+money: '65.42950000000000075'
+last-account-name: Noah_Pipo
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1888.463682275668
+  y: 68.0
+  z: 2465.300000011921
+  yaw: -173.5627899169922
+  pitch: 89.30448913574219
+past-usernames:
+- noah_pipo
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.0448707275800055
+  y: 65.0
+  z: -25.02196135539797
+  yaw: -136.33433532714844
+  pitch: 54.7139778137207

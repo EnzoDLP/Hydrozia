@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.96.101.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719692469507
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719712745016
+  login: 1719711279107
+  kits:
+    base: 1719712664962
+money: '109.580999999999999621'
+last-account-name: adamlebg
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2024.894546361184
+  y: 68.0
+  z: -881.2068112747813
+  yaw: 136.45738220214844
+  pitch: 40.95001220703125
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -16.271968154446327
+  y: 65.5
+  z: 4.704940176288411
+  yaw: 171.85784912109375
+  pitch: 18.437211990356445

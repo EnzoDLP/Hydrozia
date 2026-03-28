@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.94.65.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723375765216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723375815524
+  login: 1723375440866
+money: '0'
+last-account-name: Moeglinglin
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7129795316841236
+  y: 65.0
+  z: -32.021941452435
+  yaw: -25.617103576660156
+  pitch: -7.504060745239258
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 178.10280549752932
+  y: 71.0
+  z: -29.14839177137432
+  yaw: -134.90719604492188
+  pitch: 10.679431915283203

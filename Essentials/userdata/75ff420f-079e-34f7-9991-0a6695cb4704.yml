@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.123.83.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715542363514
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715542472440
+  login: 1715540220114
+  kits:
+    base: 1715542323103
+money: '357.17799999999999986'
+last-account-name: ImKoji_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2181.6877349334513
+  y: 69.0
+  z: 1343.8070777105377
+  yaw: 93.27828979492188
+  pitch: 3.5529890060424805
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.8801598529528569
+  y: 67.5
+  z: -5.45924034112793
+  yaw: -20.811676025390625
+  pitch: -2.5923473834991455

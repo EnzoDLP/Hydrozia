@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.249.96.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713112569445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714129046008
+  login: 1714128989938
+  kits:
+    base: 1713108727674
+money: '78.88200000000000103'
+last-account-name: El_barjo
+lastlocation:
+  world: e1383e3f-914c-4491-846d-b3baf552fc8a
+  world-name: world_the_end
+  x: 350.0167627132102
+  y: 57.0
+  z: -96.85603042857873
+  yaw: 66.75241088867188
+  pitch: -4.94990873336792
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

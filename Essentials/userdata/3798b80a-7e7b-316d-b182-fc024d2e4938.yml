@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.6.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720161029056
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720161035763
+  login: 1720160907405
+money: '1.55000000000000003'
+last-account-name: detoxx87
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1137.173029833383
+  y: 114.0
+  z: 1440.1453408308248
+  yaw: -45.79182815551758
+  pitch: -85.19996643066406
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.583454847895896
+  y: 67.0
+  z: -0.35277194612866164
+  yaw: -174.19200134277344
+  pitch: 3.8873190879821777

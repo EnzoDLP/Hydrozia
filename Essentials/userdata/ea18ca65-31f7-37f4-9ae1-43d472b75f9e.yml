@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.33.231.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715118723687
+  login: 1715116135011
+  kits:
+    base: 1715116210725
+money: '29.84100000000000042'
+last-account-name: Melodie5
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -49.44687987224963
+  y: 69.0
+  z: 58.97582249258156
+  yaw: -90.2442626953125
+  pitch: 15.300239562988281
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3520.2676706973502
+  y: 63.26408271608561
+  z: -3989.8922548645533
+  yaw: 110.28544616699219
+  pitch: -15.450271606445312

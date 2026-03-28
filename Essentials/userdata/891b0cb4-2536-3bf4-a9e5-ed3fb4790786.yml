@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.200.89.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717873271013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717878137978
+  login: 1717872260463
+money: '159.876499999999999184'
+last-account-name: Nefario_44
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.5
+  y: 69.0
+  z: 0.5
+  yaw: 179.99851989746094
+  pitch: 0.14962460100650787
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -642.4216086637886
+  y: 76.0
+  z: 1898.7829899939404
+  yaw: -146.70001220703125
+  pitch: 21.599985122680664

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.20.217.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719825943112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719826223475
+  login: 1719825735111
+money: '2.19000000000000000'
+last-account-name: BLAZZZY_YT
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.1078078486316743
+  y: 69.0
+  z: -3.864435078673674
+  yaw: 179.8618621826172
+  pitch: 12.759100914001465
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 1960.7199730115108
+  y: 91.0
+  z: -1445.5052505958959
+  yaw: -4.8719987869262695
+  pitch: 7.7376322746276855

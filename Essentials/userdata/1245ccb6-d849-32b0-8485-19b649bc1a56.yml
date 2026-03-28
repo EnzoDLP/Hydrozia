@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.205.84.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713443495069
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713633093253
+  login: 1713632964787
+  kits:
+    base: 1713368936862
+money: '367.39300000000000232'
+last-account-name: RayzixYT
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 22.46714550119166
+  y: 66.0
+  z: 29.30000001192093
+  yaw: -176.39285278320312
+  pitch: 21.081125259399414
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -8.300000011920929
+  y: 66.5
+  z: 3.2648647791960688
+  yaw: -96.33709716796875
+  pitch: 9.66145133972168
+homes:
+  home:
+    world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+    world-name: world_resources
+    x: -2350.699999988079
+    y: -55.0
+    z: -806.6580588932715
+    yaw: 88.2254638671875
+    pitch: 50.00562286376953

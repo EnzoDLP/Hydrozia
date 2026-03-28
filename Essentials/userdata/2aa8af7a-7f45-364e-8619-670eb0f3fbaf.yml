@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.43.244.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722537436045
+  login: 1722537129986
+money: '0'
+last-account-name: Auro1208
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 0.18042988876741076
+  y: 69.5154467331647
+  z: 3.3053263214938426
+  yaw: 39.694488525390625
+  pitch: 12.337474822998047
+logoutlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: -19.74068461574346
+  y: -62.0
+  z: 64.53238413551111
+  yaw: 178.0513153076172
+  pitch: 14.175697326660156

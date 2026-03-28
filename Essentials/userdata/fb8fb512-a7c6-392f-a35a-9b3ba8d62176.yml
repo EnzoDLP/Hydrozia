@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.131.2.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715468432441
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724691881752
+  login: 1724691857193
+  kits:
+    base: 1715466366049
+money: '8.68000000000000019'
+last-account-name: Narukura24
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.07311722011774303
+  y: 67.0
+  z: 0.5011838424836113
+  yaw: 179.65805053710938
+  pitch: 1.637318730354309
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4995.1586467320985
+    y: 63.0
+    z: 4883.132875392672
+    yaw: -67.6318359375
+    pitch: 13.285850524902344
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5004427209879384
+  y: 67.0
+  z: 0.23705269231281192
+  yaw: 179.8080291748047
+  pitch: 0.5873187780380249

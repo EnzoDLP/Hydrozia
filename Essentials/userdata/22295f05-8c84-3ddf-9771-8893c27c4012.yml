@@ -1,0 +1,81 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.160.68.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717492016605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717493064866
+  login: 1717489779405
+  kits:
+    base: 1714859702573
+money: '7479.004424999999176076'
+last-account-name: Exygle
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3536.269412401752
+  y: -8.0
+  z: 846.8034614106484
+  yaw: -83.30877685546875
+  pitch: 3.8997511863708496
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3537.912158641225
+  y: -4.799999952316284
+  z: 860.5381528198342
+  yaw: -154.57183837890625
+  pitch: -2.3994762897491455
+homes:
+  myc_lium:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4804.9836967570545
+    y: 68.0
+    z: 2324.8474807059974
+    yaw: -88.06503295898438
+    pitch: 2.099997043609619
+  lave:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -3353.699999988079
+    y: -17.0
+    z: 1062.6148745545634
+    yaw: -104.5771484375
+    pitch: 11.099285125732422
+  nether:
+    world: 1969a7dc-662d-423e-86db-145ce51cb06b
+    world-name: world_nether
+    x: -639.174459636105
+    y: 36.0
+    z: -746.5799755123435
+    yaw: -58.58795166015625
+    pitch: 5.194791316986084
+  temple:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -3707.8562641510543
+    y: 65.0
+    z: 1214.7133595758953
+    yaw: -82.0749740600586
+    pitch: 31.800140380859375
+  bloudy:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1875.4928143838708
+    y: 135.0
+    z: 646.7988368197371
+    yaw: -78.494384765625
+    pitch: 31.552671432495117

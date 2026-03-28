@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.114.133.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722524531350
+  login: 1722524486336
+money: '0'
+last-account-name: notagain_LAI
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1688.353875821552
+  y: 71.0
+  z: -1181.6434918401562
+  yaw: 131.9577178955078
+  pitch: -12.150101661682129
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -123.59974254680158
+  y: 55.0
+  z: 6.550690099481557
+  yaw: -6.492311954498291
+  pitch: -19.200092315673828

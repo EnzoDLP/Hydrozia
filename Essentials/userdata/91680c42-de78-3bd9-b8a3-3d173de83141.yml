@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.172.86.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720703754521
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722815866219
+  login: 1722815409458
+money: '10735.754350000000822296'
+last-account-name: Azolee2
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4997.257502720603
+  y: -49.0
+  z: 3989.8973574003303
+  yaw: -94.9505615234375
+  pitch: 17.399919509887695
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4996.076214269936
+  y: -53.0
+  z: 3987.9161082867336
+  yaw: -60.754638671875
+  pitch: 12.599489212036133
+homes:
+  home:
+    world: d31a6bf1-c0a4-41e1-a1b6-d157e66c0880
+    world-name: world_nether
+    x: -130.20923806787204
+    y: 8.0
+    z: 61.44920173557447
+    yaw: 104.536376953125
+    pitch: 11.400028228759766

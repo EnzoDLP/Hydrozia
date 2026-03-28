@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.35.58.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716579674378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719093861667
+  login: 1719093849361
+  kits:
+    base: 1716579642144
+money: '8.66000000000000067'
+last-account-name: izzem151513
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 5.565280613066231
+  y: 65.5
+  z: -74.69656595199093
+  yaw: -40.051387786865234
+  pitch: 40.34960174560547
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5001352970939302
+  y: 67.0
+  z: 0.8236868559764728
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

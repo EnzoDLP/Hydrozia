@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.22.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722454998484
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722513696897
+  login: 1722513216836
+money: '5261.742000000000237715'
+last-account-name: kakarot
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4989.72960939043
+  y: -54.0
+  z: 2306.1882098156725
+  yaw: 118.92829895019531
+  pitch: 35.70035934448242
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 1.7080205300676414
+  y: 69.0
+  z: -10.502468344571145
+  yaw: 28.799367904663086
+  pitch: 32.999996185302734
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -518.6173249002703
+    y: 61.0
+    z: -11.300000011920929
+    yaw: 170.0592041015625
+    pitch: 32.10001754760742

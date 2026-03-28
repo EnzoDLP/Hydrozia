@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.251.219.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721153774168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721153823091
+  login: 1721153199654
+money: '0'
+last-account-name: AnasBou2011
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -27.69999998807907
+  y: 68.0
+  z: -49.71790398251683
+  yaw: 82.8077621459961
+  pitch: 49.541812896728516
+logoutlocation:
+  world: a3d1663b-6338-4c9e-a980-453eef0b3a77
+  world-name: world_nether
+  x: 2.1634271905141933
+  y: 40.0
+  z: 14.539121902576156
+  yaw: 175.622314453125
+  pitch: 22.899797439575195

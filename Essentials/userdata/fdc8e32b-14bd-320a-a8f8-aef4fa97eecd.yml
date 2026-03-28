@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.176.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714825454591
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714826037766
+  login: 1714825400138
+  kits:
+    base: 1714824696121
+money: '182.162975000000005311'
+last-account-name: nathael12
+lastlocation:
+  world: 2ba5f92a-1345-4da3-b390-e37e67d50d11
+  world-name: world_the_end
+  x: 318.51401738416297
+  y: 65.0
+  z: -24.040737487130286
+  yaw: -84.63189697265625
+  pitch: 14.443673133850098
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1593.8100142440815
+    y: -58.0
+    z: -903.7034530807776
+    yaw: 31.1400146484375
+    pitch: 15.551827430725098
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.47969040299305765
+  y: 67.0
+  z: -59.66870702864799
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.219.210.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722712500184
+  login: 1722711696022
+money: '1.02000000000000007'
+last-account-name: JokerEgal
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -0.8970437520351103
+  y: 69.0
+  z: -2.8822189062147676
+  yaw: 174.85507202148438
+  pitch: -1.1022006273269653
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 13.695010360099493
+  y: 66.0
+  z: 10.38719354178683
+  yaw: 141.87916564941406
+  pitch: 15.37496566772461

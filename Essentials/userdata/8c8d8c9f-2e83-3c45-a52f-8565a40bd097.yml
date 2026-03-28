@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.139.104.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715533546514
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715534380009
+  login: 1715531412777
+money: '24.07100000000000009'
+last-account-name: floflo9589
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 252.64532659765968
+  y: 70.0
+  z: -84.70082593923114
+  yaw: -163.3494873046875
+  pitch: 55.350128173828125
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 63.85347422925066
+  y: 68.0
+  z: -7.670232484458417
+  yaw: -96.4513931274414
+  pitch: 11.69965934753418
+homes:
+  home:
+    world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+    world-name: world_resources
+    x: 231.26982809817505
+    y: 63.0
+    z: -93.67765484897961
+    yaw: -73.49847412109375
+    pitch: 8.549905776977539

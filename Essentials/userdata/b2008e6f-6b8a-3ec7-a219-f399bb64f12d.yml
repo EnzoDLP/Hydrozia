@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.29.107.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713108474695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718802817588
+  login: 1718802715382
+  kits:
+    base: 1713027598090
+money: '1254.623450000000047859'
+last-account-name: ytfeez
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -5.444458433703608
+  y: 65.0
+  z: 14.287693045416397
+  yaw: 167.40003967285156
+  pitch: 30.74979591369629
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 74.486572265625
+  pitch: 10.920313835144043
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -2393.7133883003653
+    y: 63.0
+    z: -1633.6841585841894
+    yaw: 30.5771484375
+    pitch: 57.29999542236328

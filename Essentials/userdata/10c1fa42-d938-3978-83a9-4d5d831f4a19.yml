@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.200.252.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713100107760
+  login: 1713099712131
+  kits:
+    base: 1713099831635
+money: '13.86500000000000067'
+last-account-name: Raphouilll
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.1693357998851798
+  y: 67.0
+  z: -0.05436085130755979
+  yaw: -172.081298828125
+  pitch: 48.14955139160156
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -954.5911289726828
+  y: 20.42951949501224
+  z: -1949.300000011921
+  yaw: 93.87078094482422
+  pitch: 23.39975357055664

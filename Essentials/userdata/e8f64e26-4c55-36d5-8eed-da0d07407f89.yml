@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.142.13.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718826784032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719146514015
+  login: 1719146382809
+money: '74.245500000000002035'
+last-account-name: Narugoshadow
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.1059222851333343
+  y: 65.0
+  z: 22.45013865240888
+  yaw: 152.35797119140625
+  pitch: 30.44992446899414
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 174.26689475334732
+  y: 65.0
+  z: -101.04022938796358
+  yaw: -40.2401123046875
+  pitch: 3.587172508239746

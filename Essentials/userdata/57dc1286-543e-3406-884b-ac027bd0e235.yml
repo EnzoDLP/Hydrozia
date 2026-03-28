@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.135.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716737630323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719588622925
+  login: 1719588607504
+  kits:
+    base: 1716737224616
+money: '50.92000000000000010'
+last-account-name: math_larene
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -10.453129819677097
+  y: 69.0
+  z: -9.682805006731328
+  yaw: -71.206298828125
+  pitch: 13.587187767028809
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.23318481445312
+  pitch: 0.3776213526725769

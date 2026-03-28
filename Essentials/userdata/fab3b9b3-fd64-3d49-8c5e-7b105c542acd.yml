@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.254.239.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722045106611
+  login: 1722044979951
+  kits:
+    base: 1722045043148
+money: '0'
+last-account-name: Fortnitepro2023
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -48.656273690986616
+  y: 67.0
+  z: -38.994480762755835
+  yaw: 44.208091735839844
+  pitch: 19.03731346130371

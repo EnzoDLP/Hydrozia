@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.176.194.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715450274841
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715450337363
+  login: 1715449923641
+  kits:
+    base: 1714581172206
+money: '178.969249999998957776'
+last-account-name: bg20ld
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 22.63253480995208
+  y: 66.0
+  z: 23.750922995378442
+  yaw: 114.340087890625
+  pitch: 12.829830169677734
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -695.2659094350375
+  y: -0.5
+  z: 566.7406691744527
+  yaw: -105.3992919921875
+  pitch: 26.36102867126465
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -700.898195664918
+    y: 0.0
+    z: 565.1436163956553
+    yaw: 168.9296875
+    pitch: 70.51166534423828

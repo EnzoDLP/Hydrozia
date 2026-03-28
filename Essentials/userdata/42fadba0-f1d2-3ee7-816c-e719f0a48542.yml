@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.238.189.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724957457586
+  login: 1724957029920
+  kits:
+    base: 1724957176115
+money: '0'
+last-account-name: execrable
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 17.363345777473363
+  y: 66.0
+  z: 25.5201604508109
+  yaw: -26.00258445739746
+  pitch: 5.237366199493408

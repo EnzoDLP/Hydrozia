@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.124.87.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719087911109
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719146356415
+  login: 1719146195409
+money: '18.72200000000000051'
+last-account-name: OrnicarLeBg
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -34.23861697567971
+  y: 63.0
+  z: -209.4975317946481
+  yaw: 164.2079620361328
+  pitch: -6.912726402282715
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1734.9778173016089
+  y: 169.0
+  z: 631.4869018178389
+  yaw: -11.69873046875
+  pitch: 51.90005111694336

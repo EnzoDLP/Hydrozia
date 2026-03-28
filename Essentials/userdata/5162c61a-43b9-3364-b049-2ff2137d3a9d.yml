@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.159.180.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713033875531
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713081293451
+  login: 1713080923580
+money: '71.330000000000001665'
+last-account-name: chesarrocher
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 163.04493835769685
+  y: 60.981456412320924
+  z: -47.80464495065196
+  yaw: -71.349365234375
+  pitch: 82.68836975097656
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 2069.300000011921
+  y: 66.0
+  z: -1853.699999988079
+  yaw: -2.0833740234375
+  pitch: 2.5549144744873047

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.235.27.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715259650448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715260799513
+  login: 1715260743947
+  kits:
+    base: 1715260040277
+money: '4.71200000000000001'
+last-account-name: LILI
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -502.91728672152124
+  y: 101.0
+  z: -498.77916978881063
+  yaw: 86.6988525390625
+  pitch: 28.036996841430664

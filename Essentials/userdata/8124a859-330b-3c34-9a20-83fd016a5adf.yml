@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.204.54.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723923752120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723924018176
+  login: 1723923903520
+  kits:
+    base: 1723923941723
+money: '103.09700000000000124'
+last-account-name: Xaolebus203
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.23193338778397338
+  y: 67.5
+  z: 2.1583608999388986
+  yaw: -13.80211353302002
+  pitch: 14.550254821777344
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -128.0865545843328
+  y: 62.0
+  z: -148.70019413463748
+  yaw: 18.50135040283203
+  pitch: 17.53595733642578

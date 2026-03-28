@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.66.3.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714653283594
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714653472011
+  login: 1714652117894
+money: '0.92000000000000005'
+last-account-name: Zrkyt
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -72.28176805215008
+  y: 63.0
+  z: -83.33307040955658
+  yaw: 65.54745483398438
+  pitch: 11.099666595458984
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.160.105.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718033897448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718033907566
+  login: 1718033740598
+money: '0'
+last-account-name: TheBestOfWorld
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -466.2037398828849
+  y: 97.0
+  z: -500.2070897009443
+  yaw: -94.95047760009766
+  pitch: 8.387011528015137
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 66.9525936658178
+  y: 90.0
+  z: -58.55735652478477
+  yaw: 89.76043701171875
+  pitch: 28.94964027404785

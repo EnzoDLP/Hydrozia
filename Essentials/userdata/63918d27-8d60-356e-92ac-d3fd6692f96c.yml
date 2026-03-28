@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.126.187.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720727954181
+  login: 1720727761420
+  kits:
+    base: 1720727898379
+money: '0'
+last-account-name: babaqlf
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.15170890143661325
+  y: 65.0
+  z: -21.150197127580007
+  yaw: -0.231842041015625
+  pitch: 1.3805266618728638
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 954.2986720847539
+  y: 112.0
+  z: 1343.4147735122497
+  yaw: -81.23028564453125
+  pitch: 11.55912971496582

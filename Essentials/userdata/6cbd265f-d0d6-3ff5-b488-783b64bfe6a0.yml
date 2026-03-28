@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.36.10.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714412757931
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714413457459
+  login: 1714412323980
+money: '185.875500000000001905'
+last-account-name: estanyt
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -616.972293389277
+  y: -42.2468000194788
+  z: -97.66391006516193
+  yaw: 89.3572998046875
+  pitch: 36.449859619140625
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.203838674896606
+  y: 67.0
+  z: -8.609447613550122
+  yaw: 153.70901489257812
+  pitch: 8.087388038635254

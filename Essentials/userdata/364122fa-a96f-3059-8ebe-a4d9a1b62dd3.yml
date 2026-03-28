@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.22.92.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713346364706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713347557220
+  login: 1713343559856
+money: '487.103999999999976962'
+last-account-name: ninjcat
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.699999988079071
+  y: 67.5
+  z: -5.796098195951463
+  yaw: -172.3919219970703
+  pitch: 3.5873355865478516
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -1483.2128897503671
+  y: 62.9375
+  z: 832.4732288801074
+  yaw: -116.694580078125
+  pitch: 16.799854278564453
+homes:
+  home:
+    world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+    world-name: world_resources
+    x: -1485.2106927066861
+    y: 64.0
+    z: 854.4414359697204
+    yaw: 17.10572052001953
+    pitch: 36.59992980957031

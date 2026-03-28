@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.90.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716913811849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716917514720
+  login: 1716917146863
+money: '6638.47050000000000684'
+last-account-name: Katakuri753
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.7473508876473391
+  y: 65.5
+  z: -11.471124673518675
+  yaw: -49.995391845703125
+  pitch: 7.732597351074219
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -13.166584299099135
+  y: 65.0
+  z: 4.43915609145013
+  yaw: -105.4039306640625
+  pitch: 15.103096008300781

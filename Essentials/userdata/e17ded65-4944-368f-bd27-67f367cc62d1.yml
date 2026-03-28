@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.167.24.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716723623223
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718196343711
+  login: 1718196295481
+money: '39.33000000000000233'
+last-account-name: THEPATATEVAN
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -67.30000001192093
+  y: 53.0
+  z: 301.41214462258506
+  yaw: 151.8956298828125
+  pitch: 2.1994879245758057
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1107.9019871090277
+    y: 79.0
+    z: 2293.685188490195
+    yaw: 106.858154296875
+    pitch: 19.677310943603516
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.4995790756719935
+  y: 67.0
+  z: -0.6453996954766882
+  yaw: -177.39024353027344
+  pitch: 9.102537155151367

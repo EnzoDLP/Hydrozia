@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.204.253.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717525936473
+  login: 1717524035205
+money: '58.74150000000000082'
+last-account-name: Iuzuu
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 397.50050766067324
+  y: 66.0
+  z: -590.8606226513921
+  yaw: 0.4275243282318115
+  pitch: 12.25723648071289

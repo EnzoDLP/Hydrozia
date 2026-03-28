@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.103.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713533690617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713534035880
+  login: 1713530725072
+  kits:
+    base: 1713533182340
+money: '46.03300000000000228'
+last-account-name: Nayatokb
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.3893555594492398
+  y: 67.0
+  z: 0.3229600249233975
+  yaw: 151.15823364257812
+  pitch: -8.112687110900879
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1742.2054847866505
+    y: 67.0
+    z: 1784.1378584296774
+    yaw: -15.831787109375
+    pitch: 17.56865692138672
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1192.4675098836756
+  y: 67.0
+  z: 2213.432377787304
+  yaw: -109.433349609375
+  pitch: 16.200103759765625

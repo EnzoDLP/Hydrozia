@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.157.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723140970617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723141050825
+  login: 1723140422567
+  kits:
+    base: 1719059226489
+money: '1844.80400000000000141'
+last-account-name: necktiz
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1898.2485288237099
+  y: 73.0
+  z: 685.9352979121039
+  yaw: 178.3060760498047
+  pitch: 90.0
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -17.662598914857057
+  y: 66.0
+  z: -19.26186125987035
+  yaw: 121.6082534790039
+  pitch: 32.83729553222656

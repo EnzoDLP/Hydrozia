@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.66.162.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719446746197
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719446861753
+  login: 1719446286606
+money: '0.4'
+last-account-name: idk_xd
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -476.5422360396944
+  y: 99.0
+  z: -500.2443859877556
+  yaw: -4.200170993804932
+  pitch: 16.78721809387207
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 11.741433982461913
+  y: 118.0
+  z: -148.22957589980982
+  yaw: -111.94253540039062
+  pitch: 30.5999755859375

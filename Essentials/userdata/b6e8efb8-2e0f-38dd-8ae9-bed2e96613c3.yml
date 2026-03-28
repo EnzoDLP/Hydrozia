@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.14.137.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716829285778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716829954161
+  login: 1716827890228
+  kits:
+    base: 1716828642644
+money: '8.35000000000000020'
+last-account-name: MaitreCassoulet
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1559.2282088842953
+  y: 70.0
+  z: -2030.1572429902824
+  yaw: 167.14215087890625
+  pitch: 27.899816513061523
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1380.96935711813
+    y: 73.0
+    z: 1317.077755423324
+    yaw: 150.85476684570312
+    pitch: 33.75245666503906
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1663.6280422092402
+  y: 72.0
+  z: -1625.3220257845846
+  yaw: -51.934814453125
+  pitch: 50.70012283325195

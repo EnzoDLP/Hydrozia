@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.161.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718549606549
+  login: 1718549312081
+  kits:
+    base: 1718549438707
+money: '3.53400000000000031'
+last-account-name: Laidyzane
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.06730346377330551
+  y: 65.0
+  z: -24.635995605364556
+  yaw: 176.36846923828125
+  pitch: 10.849032402038574
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -847.955368823148
+  y: 68.0
+  z: -1415.8232556442983
+  yaw: -174.40728759765625
+  pitch: 11.512986183166504

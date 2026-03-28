@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.201.253.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722950786215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722951897120
+  login: 1722951791615
+  kits:
+    base: 1722950953622
+money: '0'
+last-account-name: Ismael
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -48.896245449687875
+  y: 65.00000019999999
+  z: -77.58685135450065
+  yaw: -34.65190124511719
+  pitch: 3.7500200271606445
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -6.2398726901175445
+  y: 67.0
+  z: 22.305624362323275
+  yaw: -140.59173583984375
+  pitch: -8.70010757446289

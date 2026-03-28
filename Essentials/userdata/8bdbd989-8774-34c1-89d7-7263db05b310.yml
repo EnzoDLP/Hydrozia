@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.157.225.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720820944580
+  login: 1720820674572
+  kits:
+    base: 1720820916629
+money: '0'
+last-account-name: fire
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 21.877599366707365
+  y: 63.0
+  z: 83.55023325153667
+  yaw: -8.891973495483398
+  pitch: -13.512693405151367

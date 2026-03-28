@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.214.230
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715118760354
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715119052588
+  login: 1715117886865
+  kits:
+    base: 1715118418011
+money: '2.93250000000000015'
+last-account-name: Mama360
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.5
+  y: 69.0000001
+  z: 0.5
+  yaw: -178.20155334472656
+  pitch: 2.5496249198913574
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 1814.6017085041824
+  y: 105.0
+  z: -774.3000000119209
+  yaw: -2.491973876953125
+  pitch: 34.24836349487305

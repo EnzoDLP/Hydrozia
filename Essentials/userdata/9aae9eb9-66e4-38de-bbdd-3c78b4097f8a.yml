@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.204.183.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720522747019
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720522969127
+  login: 1720522323989
+money: '13.48000000000000030'
+last-account-name: dav
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 174.69999998807907
+  y: 31.0
+  z: -36.69999998807907
+  yaw: -171.523681640625
+  pitch: 90.0
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 14.015432522570961
+  y: 66.0
+  z: 15.079965216015108
+  yaw: -66.5587158203125
+  pitch: 55.44370651245117

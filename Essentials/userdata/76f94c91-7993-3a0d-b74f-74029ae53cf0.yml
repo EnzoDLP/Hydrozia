@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.19.251.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713568789867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713568831376
+  login: 1713568671118
+money: '0'
+last-account-name: lesFLY
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.026046875787778086
+  y: 67.0
+  z: -0.5128862004202406
+  yaw: -82.7545166015625
+  pitch: -20.026391983032227
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4.388835152672027
+  y: 68.0
+  z: 0.4479110549752125
+  yaw: -90.48892211914062
+  pitch: -5.980395793914795

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.66.160.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713711974002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713712070323
+  login: 1713711689508
+  kits:
+    base: 1713711751106
+money: '0'
+last-account-name: ozziboux25
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 88.1041905125709
+  y: 90.0
+  z: -58.18473564444717
+  yaw: -176.007080078125
+  pitch: 34.499732971191406
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2.841158275422965
+  y: 68.0625
+  z: -1.7987406909539148
+  yaw: 48.560638427734375
+  pitch: 18.88709831237793

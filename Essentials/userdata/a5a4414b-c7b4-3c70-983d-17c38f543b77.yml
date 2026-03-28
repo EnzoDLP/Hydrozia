@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.205.22.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714230483731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714232048309
+  login: 1714230319580
+  kits:
+    base: 1714230426759
+money: '157.28350000000000075'
+last-account-name: KitaroFr1174
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -0.6519910356278222
+  y: 69.0
+  z: -3.5379588088305813
+  yaw: -118.8014907836914
+  pitch: -1.9503710269927979
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 776.5045344708792
+  y: 63.0
+  z: -1827.668812508967
+  yaw: -9.14984130859375
+  pitch: 26.099979400634766

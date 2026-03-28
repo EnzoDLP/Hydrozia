@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.36.15.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714411844831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714412017800
+  login: 1714410215280
+  kits:
+    base: 1714410518089
+money: '1.19000000000000006'
+last-account-name: yayi
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 499.47746770301205
+  y: 64.0
+  z: 613.2941791886045
+  yaw: 97.64810180664062
+  pitch: 9.749872207641602
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 31.30794906616211
+  pitch: -0.3126816749572754

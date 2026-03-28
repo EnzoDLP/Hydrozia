@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.120.158.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716317370960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717415894706
+  login: 1717415883855
+  kits:
+    base: 1716317204040
+money: '20.60099999999997434'
+last-account-name: Katorrn
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -172.39198303222656
+  pitch: -4.212679862976074
+lastlocation:
+  world: 88ebfc47-ed7d-4fc8-bd35-d17f23832ab1
+  world-name: world_build
+  x: -230.76467844315374
+  y: -60.0
+  z: 262.83866485990274
+  yaw: 126.5650634765625
+  pitch: 3.1498827934265137

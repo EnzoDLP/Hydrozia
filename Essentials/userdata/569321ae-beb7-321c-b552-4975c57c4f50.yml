@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.120.235.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720859480843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720859641700
+  login: 1720859413593
+money: '131.37300000000000036'
+last-account-name: luluquibrille
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 50.548455047161944
+  y: 62.11076428890229
+  z: -1006.7511878205898
+  yaw: 131.0635986328125
+  pitch: 8.700078964233398
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.6923242914013197
+  y: 62.0
+  z: -130.8005368390478
+  yaw: 4.158050537109375
+  pitch: -9.612669944763184

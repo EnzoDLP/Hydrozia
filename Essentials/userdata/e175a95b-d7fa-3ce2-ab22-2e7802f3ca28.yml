@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.254.81.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722699866285
+  login: 1722699442872
+money: '0.05'
+last-account-name: lemecdiscord
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 100.31673353600353
+  y: 70.0
+  z: -63.50050176280476
+  yaw: 89.54426574707031
+  pitch: 1.4998631477355957
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 93.63640559033787
+  y: 68.00461056230324
+  z: -97.69999998807907
+  yaw: 166.04420471191406
+  pitch: 15.449862480163574

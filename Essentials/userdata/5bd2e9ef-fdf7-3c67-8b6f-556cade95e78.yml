@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.250.27.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718295641689
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718295645013
+  login: 1718293522294
+  kits:
+    base: 1718292811889
+money: '190.007999999999994192'
+last-account-name: TheDragon60300
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 69.5
+  y: 28.0
+  z: -468.5
+  yaw: 8.762937545776367
+  pitch: 25.050037384033203
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 64.55192292337327
+  y: -12.0
+  z: -459.13962796772364
+  yaw: -87.08319091796875
+  pitch: 10.95013427734375
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 69.80065888132056
+    y: 28.0
+    z: -468.75898307265356
+    yaw: 26.012939453125
+    pitch: 28.650033950805664

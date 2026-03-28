@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.15.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713129944245
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713130378009
+  login: 1713126134847
+  kits:
+    base: 1713112339232
+money: '6293.92274999999989957'
+last-account-name: SpenzOO
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3320.762499988079
+  y: 67.0
+  z: -1690.56260526472
+  yaw: 76.95770263671875
+  pitch: 29.249502182006836
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5537314244140558
+  y: 65.0
+  z: 29.886268160291756
+  yaw: -1.0501075983047485
+  pitch: 17.24993896484375
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 3319.180117872465
+    y: 67.0000001
+    z: -1688.7327744622257
+    yaw: -82.63048553466797
+    pitch: 33.749122619628906

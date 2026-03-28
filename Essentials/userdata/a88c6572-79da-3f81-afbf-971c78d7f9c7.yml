@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.120.111.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722006782052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722007456615
+  login: 1722005620051
+  kits:
+    base: 1722007257401
+money: '64.463399999999974424'
+last-account-name: obb
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 21.69999998807907
+  y: 63.0
+  z: -120.30000001192093
+  yaw: -172.99130249023438
+  pitch: 8.237554550170898
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 173.20811462402344
+  pitch: 3.1373190879821777
+homes:
+  home:
+    world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+    world-name: world_resources
+    x: 2399.9038314982595
+    y: 64.0
+    z: -2077.9947253302894
+    yaw: -68.07584381103516
+    pitch: 23.99997901916504

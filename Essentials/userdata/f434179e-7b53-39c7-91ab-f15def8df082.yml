@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.210.171.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719914240361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719914618219
+  login: 1719909391161
+  kits:
+    base: 1719842552073
+money: '766.009974999999862302'
+last-account-name: 1106__axel
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2.8872231560258514
+  y: 68.0
+  z: 1.4737316137737888
+  yaw: -168.1055908203125
+  pitch: 19.95452117919922
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -813.5881874609926
+  y: 27.75
+  z: 582.2130381487161
+  yaw: 157.90386962890625
+  pitch: 20.17929458618164
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -817.4875190184463
+    y: 27.0
+    z: 577.52223703326
+    yaw: -88.531982421875
+    pitch: 26.899105072021484

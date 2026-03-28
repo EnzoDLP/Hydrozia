@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.88.100.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723319734448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723319798158
+  login: 1723319616663
+money: '0'
+last-account-name: EZSTONKS
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -5.386567880763681
+  y: 69.0
+  z: -7.482363768622464
+  yaw: -80.26905059814453
+  pitch: -3.767634391784668
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 1541.661412669705
+  y: 156.0
+  z: -580.1765482211694
+  yaw: -50.99045944213867
+  pitch: 17.46817970275879

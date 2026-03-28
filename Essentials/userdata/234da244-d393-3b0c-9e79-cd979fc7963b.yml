@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.177.44.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715534009564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715538243530
+  login: 1715538226119
+money: '1.49625000000017967'
+last-account-name: IlikeTheDiamond
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.03690731132838
+  y: 65.0
+  z: -22.180515463154524
+  yaw: -118.39212799072266
+  pitch: 14.537429809570312
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1886.8970621092633
+  y: -57.0
+  z: -700.3000000119209
+  yaw: 165.09176635742188
+  pitch: 29.249719619750977
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1887.148907105686
+    y: -58.0
+    z: -703.8031058380119
+    yaw: -82.858154296875
+    pitch: 26.549850463867188

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.173.224.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724348542760
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724349780765
+  login: 1724345724457
+  kits:
+    base: 1720820101781
+money: '12917.197449999953034307'
+last-account-name: thefantaisy16
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1500.300000011921
+  y: 57.0
+  z: -1551.699999988079
+  yaw: 4.612907409667969
+  pitch: 20.550033569335938
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 23.733266930657773
+  y: 66.0
+  z: 15.338299068862337
+  yaw: -148.39187622070312
+  pitch: 20.537294387817383
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1330.476280260264
+    y: 258.0
+    z: -459.4302986318397
+    yaw: 163.55291748046875
+    pitch: 73.04975891113281

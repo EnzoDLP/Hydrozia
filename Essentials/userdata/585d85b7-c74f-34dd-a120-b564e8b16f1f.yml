@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.107.56.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717435822849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717436297922
+  login: 1717435623949
+  kits:
+    base: 1717434035299
+money: '19982.152850000008765992'
+last-account-name: LeChetane
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1663.5366272804706
+  y: 82.0
+  z: 780.8748785450831
+  yaw: 99.897216796875
+  pitch: -12.943707466125488
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1761.485667259369
+  y: -20.0
+  z: 637.2047053856829
+  yaw: -108.68817138671875
+  pitch: 31.230422973632812
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1761.485667259369
+    y: -20.0
+    z: 637.2047053856829
+    yaw: -108.68817138671875
+    pitch: 31.230422973632812

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.86.184.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715024361468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715024775106
+  login: 1715022359867
+  kits:
+    base: 1715021117123
+money: '57.469500000000002285'
+last-account-name: ytle_wakami
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1118.0995921456135
+  y: 74.0
+  z: 2445.6981492302084
+  yaw: 22.308856964111328
+  pitch: 16.20000648498535
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7732275952549804
+  y: 66.5
+  z: -10.398312073828823
+  yaw: 142.3516845703125
+  pitch: 4.6501994132995605
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1116.756227822352
+    y: 73.0
+    z: 2445.726230901983
+    yaw: -99.34220123291016
+    pitch: 35.98713302612305

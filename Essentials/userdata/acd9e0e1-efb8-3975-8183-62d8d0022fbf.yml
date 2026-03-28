@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.125.29.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719582372904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719582558815
+  login: 1719581485354
+  kits:
+    base: 1714661254165
+money: '21171.544899999994141729'
+last-account-name: saucissauvage
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 50.96785905445642
+  y: 67.0
+  z: -24.912526286319036
+  yaw: -178.17288208007812
+  pitch: 32.50691223144531
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2917.4949644559624
+  y: -59.0
+  z: 4761.9924455808305
+  yaw: -167.488525390625
+  pitch: 8.140225410461426
+homes:
+  home:
+    world: 78bb449f-a774-45aa-9361-22ba98f59bf5
+    world-name: world_the_end
+    x: -3566.8689970808514
+    y: 1.0
+    z: 7858.629315024861
+    yaw: 137.03482055664062
+    pitch: 12.43885326385498

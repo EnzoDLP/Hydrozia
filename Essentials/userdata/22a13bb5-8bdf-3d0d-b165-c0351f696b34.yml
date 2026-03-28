@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.90.85.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715708058448
+  login: 1715706893683
+money: '12.28100000000000004'
+last-account-name: lanceur2nain
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 356.55857468493207
+  y: 65.0
+  z: -118.09182421917708
+  yaw: -5.140625
+  pitch: 17.250001907348633
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -552.6999999880791
+  y: 73.0
+  z: -1323.5072442001072
+  yaw: 89.21016693115234
+  pitch: 59.70003128051758

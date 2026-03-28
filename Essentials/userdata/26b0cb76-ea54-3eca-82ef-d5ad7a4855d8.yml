@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.171.84.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721219457702
+  login: 1721219257919
+money: '0.6'
+last-account-name: Vadormi20
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3.2793842798323887
+  y: 67.0
+  z: -53.51574595045875
+  yaw: 164.9591064453125
+  pitch: -0.3126686215400696
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 573.4442713973726
+  y: 88.0
+  z: 2641.699999988079
+  yaw: 130.49600219726562
+  pitch: 12.600374221801758

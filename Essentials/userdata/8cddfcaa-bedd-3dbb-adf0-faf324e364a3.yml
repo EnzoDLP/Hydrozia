@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.138.155.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718881979680
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718884443143
+  login: 1718884400429
+money: '0'
+last-account-name: Puffer_discret4
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -55.75269402180667
+  y: 67.0
+  z: 58.69999998807907
+  yaw: 6.6429362297058105
+  pitch: 9.42650032043457
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -103.01175638338609
+  y: 64.0
+  z: -31.72080830674687
+  yaw: 71.36074829101562
+  pitch: 43.93723678588867

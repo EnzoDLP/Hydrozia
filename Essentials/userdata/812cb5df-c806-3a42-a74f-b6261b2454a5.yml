@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.102.35.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714136585752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714137925172
+  login: 1714137540502
+  kits:
+    base: 1714136150420
+money: '0.21'
+last-account-name: 355titou
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 58.5
+  y: 90.0000001
+  z: -58.5
+  yaw: -89.85021209716797
+  pitch: 4.650222301483154
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 58.5
+  y: 90.00000019999999
+  z: -58.5
+  yaw: -91.36900329589844
+  pitch: 5.606482028961182

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.130.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715978761187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715979266602
+  login: 1715977858337
+  kits:
+    base: 1715978819773
+money: '6.27000000000000001'
+last-account-name: Saiiii4
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1083.9520736286897
+  y: 111.0
+  z: 1174.575209902507
+  yaw: -90.604248046875
+  pitch: 37.34965133666992
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 48.232472829344196
+  y: 67.0
+  z: 42.45027390916876
+  yaw: -82.2414321899414
+  pitch: 16.787633895874023

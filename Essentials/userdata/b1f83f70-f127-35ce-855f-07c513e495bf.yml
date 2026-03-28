@@ -1,0 +1,82 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.180.83.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722790631658
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722790920525
+  login: 1722789828608
+  kits:
+    base: 1722697251237
+    vip: 1714062734338
+money: '78664.157574999990446645'
+last-account-name: TigrouLeLoulou
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 19.93147864988041
+  y: 57.0
+  z: 273.7511469932894
+  yaw: 163.7628631591797
+  pitch: 27.988609313964844
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 907.796161763083
+    y: 319.0
+    z: 3210.875777345184
+    yaw: -78.24737548828125
+    pitch: 53.066226959228516
+  koth:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4942.34510141643
+    y: 29.0
+    z: 4969.300000011921
+    yaw: 68.8502197265625
+    pitch: 68.28718566894531
+  p:
+    world: eaf27b62-d807-4dc5-914f-f858bfc0447c
+    world-name: world_the_end
+    x: -2511.1090229332744
+    y: 116.0
+    z: 8601.654960774644
+    yaw: -85.7365493774414
+    pitch: 13.68765926361084
+  l:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4089.4255163987914
+    y: 63.0
+    z: -4910.341871680042
+    yaw: -137.0924530029297
+    pitch: 77.0314712524414
+  b:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 621.1735192024481
+    y: -60.0
+    z: 4394.300000011921
+    yaw: 29.62933349609375
+    pitch: 5.499142169952393
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 9.27720578795817
+  y: 66.0
+  z: -12.764833379337597
+  yaw: 157.3597412109375
+  pitch: 25.227563858032227

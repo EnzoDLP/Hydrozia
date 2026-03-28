@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.224.108.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717520832555
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717521008020
+  login: 1717520557406
+money: '155.082999999999998722'
+last-account-name: Blackball_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 21.064578993880414
+  y: 67.0
+  z: -15.667903723918881
+  yaw: 33.55799865722656
+  pitch: 23.537330627441406
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 7.345490313969154
+  y: 67.5
+  z: 0.2987188509041083
+  yaw: -86.891845703125
+  pitch: 23.537307739257812

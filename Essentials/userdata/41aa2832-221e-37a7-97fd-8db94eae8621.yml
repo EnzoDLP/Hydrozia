@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.164.79.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716219533321
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716221140994
+  login: 1716219073720
+  kits:
+    base: 1716221067618
+money: '50.493000000000001535'
+last-account-name: Scaramuccia
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 36.23114512219102
+  y: 67.0
+  z: -50.67297445612668
+  yaw: -98.10035705566406
+  pitch: 12.600175857543945
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 31.33845939920764
+  y: 64.0
+  z: 327.8847174485044
+  yaw: 124.89886474609375
+  pitch: 24.149953842163086

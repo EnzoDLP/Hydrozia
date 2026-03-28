@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.0.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719005046393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719007611804
+  login: 1719004106450
+  kits:
+    base: 1719004285968
+money: '172.70799999999998924'
+last-account-name: ed7b
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.45311597736806053
+  y: 65.0
+  z: -17.33322157588172
+  yaw: 12.281005859375
+  pitch: 20.22073745727539
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -2376.8863592226544
+  y: 82.0
+  z: -1374.3948177339053
+  yaw: -32.5048828125
+  pitch: 34.20167541503906

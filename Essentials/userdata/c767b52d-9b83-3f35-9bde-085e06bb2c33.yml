@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.154.36.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722954614715
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722955221180
+  login: 1722952120315
+  kits:
+    base: 1722952178496
+money: '7959.932675000000722670'
+last-account-name: saogab
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1867.2941686504644
+  y: 71.0
+  z: 2391.309898433272
+  yaw: -157.94842529296875
+  pitch: 16.04995346069336
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2515.29459494511
+  y: -59.0
+  z: 2557.952223696744
+  yaw: -81.6134033203125
+  pitch: 18.89996337890625
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -2515.6971351544844
+    y: -59.0
+    z: 2551.574302515441
+    yaw: -14.10052490234375
+    pitch: 84.14999389648438

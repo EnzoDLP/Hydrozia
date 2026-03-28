@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.145.253.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713719572700
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713719845428
+  login: 1713719462656
+money: '23.33500000000000007'
+last-account-name: jojotv300_
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 1.3026673036083798
+  y: 69.0
+  z: -4.237177032482128
+  yaw: 120.15031433105469
+  pitch: 9.29963207244873
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -2343.699999988079
+  y: 46.0
+  z: 1348.300000011921
+  yaw: 160.65223693847656
+  pitch: 23.84944725036621

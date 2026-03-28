@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.109.110.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718730277881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718730464353
+  login: 1718727542681
+  kits:
+    base: 1718644584508
+money: '1007.484725000000020425'
+last-account-name: Helipsargo_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 34.11576882162713
+  y: 64.0
+  z: 97.97076781127791
+  yaw: 170.90380859375
+  pitch: 22.213367462158203
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 7.2056852359129175
+  y: 66.0
+  z: 19.98977002761531
+  yaw: 59.97822952270508
+  pitch: 12.324737548828125
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1316.5586636460919
+    y: 50.0
+    z: -1077.5034191958534
+    yaw: 122.39898681640625
+    pitch: 4.667168140411377

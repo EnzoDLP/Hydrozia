@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.113.96.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721729647515
+  login: 1721729313206
+money: '0.56750000000000007'
+last-account-name: wkihugyu
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.16123840408645385
+  y: 68.0
+  z: -2.81376770985026
+  yaw: -80.2926025390625
+  pitch: 90.0
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1418.300000011921
+  y: 63.0
+  z: -1006.5115537402685
+  yaw: -91.5423583984375
+  pitch: 35.39998245239258

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.104.67.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721582621192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721582780849
+  login: 1721581601442
+money: '16.73400000000000098'
+last-account-name: J_vssim
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 148.6141352786653
+  y: 34.0
+  z: -25.490175960354506
+  yaw: 80.69537353515625
+  pitch: 36.30001449584961
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 18.490445335486204
+  y: 66.0
+  z: 26.39379327339061
+  yaw: 24.2572021484375
+  pitch: 10.650045394897461

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.64.199.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724743931616
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724744054134
+  login: 1724743879366
+money: '0.06'
+last-account-name: Matcommando
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1707.4945206752118
+  y: 64.0
+  z: 1602.7216704723935
+  yaw: 140.10321044921875
+  pitch: 32.91887664794922
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.6435403288373945
+  y: 67.0
+  z: 8.819807667805476
+  yaw: 4.9547119140625
+  pitch: 3.2871556282043457

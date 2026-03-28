@@ -1,0 +1,90 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.89.134.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718102419549
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718102654216
+  login: 1718102320899
+  kits:
+    vip: 1716994953702
+    base: 1715288555942
+money: '0.8905000000287663125111512313'
+last-account-name: Lulufot
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4991.787120003813
+  y: 320.0
+  z: -4973.320582924652
+  yaw: 93.14102935791016
+  pitch: 9.110466003417969
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.8326721631391618
+  y: 68.0625
+  z: -0.7783982516960212
+  yaw: -137.20840454101562
+  pitch: 15.81731128692627
+homes:
+  enderman:
+    world: 78bb449f-a774-45aa-9361-22ba98f59bf5
+    world-name: world_the_end
+    x: 6212.70970766202
+    y: 1.0
+    z: -7198.252419246535
+    yaw: -163.7279052734375
+    pitch: 6.196732997894287
+  fer:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: 4619.316385052995
+    y: 51.0
+    z: -6196.1460930531675
+    yaw: -82.49319458007812
+    pitch: 13.566943168640137
+  cuivre:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -269.0602188695572
+    y: 68.0
+    z: -36960.94529714777
+    yaw: -30.35455322265625
+    pitch: 37.94794464111328
+  bc:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 5005.300000011921
+    y: -62.0
+    z: -5001.30139103075
+    yaw: 70.02994537353516
+    pitch: 58.80290985107422
+  obsi:
+    world: 2ba5f92a-1345-4da3-b390-e37e67d50d11
+    world-name: world_the_end
+    x: -12.570616980222864
+    y: 104.0
+    z: -39.58058458332524
+    yaw: -0.53515625
+    pitch: 79.06069946289062
+  pillage:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4893.790524968918
+    y: -49.0
+    z: 4992.498230837771
+    yaw: 77.6627197265625
+    pitch: 32.81777572631836

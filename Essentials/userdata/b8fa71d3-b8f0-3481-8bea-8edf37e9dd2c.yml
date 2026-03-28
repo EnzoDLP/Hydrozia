@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.39.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715541009264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723487970408
+  login: 1723487923210
+  kits:
+    base: 1715540674522
+money: '0'
+last-account-name: AnthonyXB72
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -119.14650814280718
+  y: 59.368505186300816
+  z: -680.649144572804
+  yaw: 157.86502075195312
+  pitch: 14.396950721740723
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5000901980616868
+  y: 67.0
+  z: 0.8137635626467284
+  yaw: -120.33036804199219
+  pitch: 20.7370548248291

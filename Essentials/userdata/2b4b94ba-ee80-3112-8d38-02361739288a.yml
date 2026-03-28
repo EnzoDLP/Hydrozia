@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.37.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713205672781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713205809953
+  login: 1713203614431
+money: '112.820500000000001645'
+last-account-name: Floflo
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 887.8752650795574
+  y: 14.0
+  z: 369.69999998807907
+  yaw: 26.3133544921875
+  pitch: 11.249845504760742
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.5884761262368605
+  y: 68.0
+  z: 2.616499387571703
+  yaw: 28.80012321472168
+  pitch: 14.849538803100586
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 904.2086195796976
+    y: 82.0
+    z: 397.69999998807907
+    yaw: 109.46687316894531
+    pitch: 20.39977264404297

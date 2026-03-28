@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.226.202.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723019055701
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723057838959
+  login: 1723057810901
+  kits:
+    base: 1723018055939
+money: '0'
+last-account-name: Aakasis
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1053.0525484836892
+  y: -59.0
+  z: 1474.7653959112158
+  yaw: 91.8687744140625
+  pitch: -3.300161123275757
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4.280891859992426
+    y: 62.0
+    z: -258.7107492586916
+    yaw: 134.80584716796875
+    pitch: 37.799312591552734
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

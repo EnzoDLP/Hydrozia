@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.171.28.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714749170293
+  login: 1714749026919
+money: '0'
+last-account-name: ZODYBARK
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -5.6862333551013E-4
+  y: 67.0
+  z: 0.6910228838969567
+  yaw: 88.15816497802734
+  pitch: 25.187339782714844

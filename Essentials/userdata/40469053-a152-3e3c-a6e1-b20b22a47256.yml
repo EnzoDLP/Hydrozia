@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.250.24.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716203599221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716364849014
+  login: 1716364816851
+  kits:
+    base: 1715790632572
+money: '49.000000000000000136'
+last-account-name: DarkVeldra
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2258.331528815523
+  y: 58.0
+  z: -2214.666790454392
+  yaw: 102.87948608398438
+  pitch: -12.150030136108398
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.5
+  y: 69.0000001
+  z: 0.5
+  yaw: 154.50070190429688
+  pitch: -0.9000270366668701
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -2262.9670371975194
+    y: 60.0
+    z: -2215.650899886277
+    yaw: -60.32049560546875
+    pitch: 16.049358367919922

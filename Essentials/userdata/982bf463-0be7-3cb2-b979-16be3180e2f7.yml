@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.40.179.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714823482913
+  login: 1714823446588
+money: '0'
+last-account-name: bloxfreo
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.739895951908187
+  y: 68.0
+  z: 3.893662957063198
+  yaw: 172.6070556640625
+  pitch: -0.012662798166275024
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2327.22762103554
+  y: 67.0
+  z: 1717.866397971293
+  yaw: -88.6953125
+  pitch: -10.200088500976562

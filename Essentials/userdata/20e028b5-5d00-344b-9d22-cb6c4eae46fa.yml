@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.128.64.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717951294712
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717952232299
+  login: 1717952157712
+  kits:
+    base: 1717951658373
+money: '7.60600000000000015'
+last-account-name: kogaaa_
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -23.590205347259847
+  y: 63.0
+  z: -86.81485800030646
+  yaw: -10.775664329528809
+  pitch: 12.600269317626953
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 2384.43443051475
+  y: 64.7531999805212
+  z: -2591.123567656481
+  yaw: 149.12539672851562
+  pitch: 16.34991455078125

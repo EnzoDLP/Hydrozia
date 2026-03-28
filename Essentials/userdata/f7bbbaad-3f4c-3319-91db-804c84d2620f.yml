@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.68.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724228105033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724228163895
+  login: 1724228000900
+  kits:
+    base: 1724170297344
+money: '1.73000000000000004'
+last-account-name: MixLag45
+lastlocation:
+  world: eaf27b62-d807-4dc5-914f-f858bfc0447c
+  world-name: world_the_end
+  x: 368.5267471073371
+  y: 61.0
+  z: -80.79603886642158
+  yaw: -95.37646484375
+  pitch: -7.858546257019043
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -501.3719653770587
+  y: 101.5
+  z: -493.9927691822387
+  yaw: 178.12588500976562
+  pitch: 29.408241271972656

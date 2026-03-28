@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.126.229.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713240567057
+  login: 1713240542350
+money: '1.09000000000000006'
+last-account-name: xKing_Julian
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.015167821099489113
+  y: 68.0
+  z: -3.6272116516238637
+  yaw: -69.14981079101562
+  pitch: 1.4998500347137451
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -884.4539595775169
+  y: 63.0000001
+  z: 832.9898928764619
+  yaw: 98.2500228881836
+  pitch: 14.699907302856445

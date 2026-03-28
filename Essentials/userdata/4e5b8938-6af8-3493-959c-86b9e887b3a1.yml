@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.105.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713630328787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713630396263
+  login: 1713626804837
+  kits:
+    base: 1713627445101
+money: '1296.378499999999989678'
+last-account-name: littlecrab99
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.4398748229314526
+  y: 65.0
+  z: -38.024286536154285
+  yaw: 3.5142621994018555
+  pitch: 1.258325219154358
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 983.0258480428216
+  y: 94.0
+  z: 1527.3067604000462
+  yaw: -119.82347106933594
+  pitch: 60.347164154052734
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 988.9858285452901
+    y: 94.0
+    z: 1525.3026942973252
+    yaw: -10.293060302734375
+    pitch: 43.295509338378906

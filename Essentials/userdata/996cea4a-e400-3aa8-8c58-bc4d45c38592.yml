@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.35.224.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720448917985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720448960347
+  login: 1720446841885
+money: '446.25350000000000175'
+last-account-name: Zeckroww
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 919.4998561831167
+  y: -57.0
+  z: 1811.2645468511826
+  yaw: -163.08485412597656
+  pitch: 9.047587394714355
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 9.07260106825617
+  y: 67.0
+  z: 0.24346433771606854
+  yaw: 95.25845336914062
+  pitch: 30.80058479309082

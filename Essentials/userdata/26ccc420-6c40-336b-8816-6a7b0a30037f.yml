@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.164.68.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717520642505
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717521017123
+  login: 1717520554005
+money: '3.18000000000000016'
+last-account-name: DrareesBXL
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 13.968612905179944
+  y: 65.0
+  z: 2.404850906236949
+  yaw: 179.81939697265625
+  pitch: -15.157228469848633
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.036125925896281615
+  y: 67.0
+  z: 0.43815462723209225
+  yaw: -5.84442138671875
+  pitch: 2.7408804893493652

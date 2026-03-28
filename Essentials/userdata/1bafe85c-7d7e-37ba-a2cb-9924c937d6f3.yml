@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.34.93.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719001061750
+  login: 1719001040393
+  kits:
+    base: 1717440891169
+money: '4.11000000000000039'
+last-account-name: rayaneAXD
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 334.69999998807907
+  y: 68.0
+  z: 51.642390518750496
+  yaw: 32.657318115234375
+  pitch: 5.087584495544434
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

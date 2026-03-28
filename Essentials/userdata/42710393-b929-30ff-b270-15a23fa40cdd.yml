@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.120.42.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713957673694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713957753604
+  login: 1713957387794
+  kits:
+    base: 1713957624299
+money: '0'
+last-account-name: dakcalvo
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 62.753374943994245
+  y: 68.0
+  z: 0.4505062379383883
+  yaw: -11.892386436462402
+  pitch: 2.237367630004883
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 58.5
+  y: 90.0000001
+  z: -58.5
+  yaw: -93.9581298828125
+  pitch: -13.200093269348145

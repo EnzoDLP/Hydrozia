@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.133.96.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713809218763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722613360959
+  login: 1722613219942
+  kits:
+    base: 1713120575122
+money: '2550.175099999996910939'
+last-account-name: DM_YASO
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -488.4322905598518
+  y: 63.0
+  z: -1690.8469330058313
+  yaw: -95.35665893554688
+  pitch: 8.46450424194336
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 3796.257756249177
+    y: -59.0
+    z: 4681.859623462709
+    yaw: 123.55672454833984
+    pitch: -10.998743057250977
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 176.55284118652344
+  pitch: -6.24676513671875

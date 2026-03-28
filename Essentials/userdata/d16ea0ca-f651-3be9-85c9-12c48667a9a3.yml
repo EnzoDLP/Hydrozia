@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.70.178.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719861943611
+  login: 1719861601990
+money: '1.00000000000000009'
+last-account-name: noupi27
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 18.219029083534977
+  y: 65.0
+  z: 2.699882689495796
+  yaw: 28.682844161987305
+  pitch: 5.8602213859558105
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1617.4087580425416
+  y: 63.0
+  z: -2547.668550400075
+  yaw: 106.13923645019531
+  pitch: 12.549783706665039

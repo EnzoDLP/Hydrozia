@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.178.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718905307129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719687411130
+  login: 1719687310207
+money: '0.17'
+last-account-name: wawane51
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2175.4691713514853
+  y: 72.0
+  z: 1763.9653853625448
+  yaw: 128.91549682617188
+  pitch: 10.364566802978516
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 7.637024367714225
+  y: 66.0
+  z: -5.614642969189867
+  yaw: -15.799842834472656
+  pitch: 3.068892478942871

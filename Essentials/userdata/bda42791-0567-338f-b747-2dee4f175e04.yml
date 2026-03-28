@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.28.16.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714290151736
+  login: 1714289282089
+money: '35.59000000000000101'
+last-account-name: juju120
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 249.09065874883467
+  y: 11.0
+  z: -1002.3000000119209
+  yaw: 88.48046875
+  pitch: 18.76304817199707
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -1070.4146680087354
+  y: 66.0
+  z: -1147.5262047855388
+  yaw: -98.78656005859375
+  pitch: 37.46571350097656

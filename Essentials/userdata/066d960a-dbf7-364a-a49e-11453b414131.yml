@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.166.29.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721782029968
+  login: 1721781791107
+  kits:
+    base: 1721781913302
+money: '0'
+last-account-name: Albertsearch
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 10.220905913191045
+  y: 66.0
+  z: -12.994881750272276
+  yaw: 25.908599853515625
+  pitch: -14.712682723999023

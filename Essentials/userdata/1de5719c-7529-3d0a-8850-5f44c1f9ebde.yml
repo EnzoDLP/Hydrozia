@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.84.27.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721658394970
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721658762080
+  login: 1721657962970
+  kits:
+    base: 1721302769594
+money: '57.99900000000000265'
+last-account-name: xTommy75
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.9363008982576692
+  y: 67.0
+  z: -0.04725612507424553
+  yaw: 51.858154296875
+  pitch: 8.837325096130371
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1077.0209621981057
+  y: 113.0
+  z: 1690.4214833679212
+  yaw: -43.846954345703125
+  pitch: 33.60002899169922
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1074.420253948329
+    y: 108.0
+    z: 1673.0242613984449
+    yaw: 21.180320739746094
+    pitch: 16.04999351501465

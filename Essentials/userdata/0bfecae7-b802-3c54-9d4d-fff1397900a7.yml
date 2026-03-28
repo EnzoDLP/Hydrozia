@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.166.111.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720639229436
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720639268251
+  login: 1720636616436
+  kits:
+    base: 1720637201697
+money: '3447.02350000000001959'
+last-account-name: ima2407
+logoutlocation:
+  world: 78bb449f-a774-45aa-9361-22ba98f59bf5
+  world-name: world_the_end
+  x: 121.72260524407255
+  y: 58.0
+  z: -24.03270346197125
+  yaw: 123.7398681640625
+  pitch: 51.012451171875
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 5005.258432625194
+  y: -49.08401652864502
+  z: 4014.669898040028
+  yaw: -167.5882568359375
+  pitch: 46.88053512573242

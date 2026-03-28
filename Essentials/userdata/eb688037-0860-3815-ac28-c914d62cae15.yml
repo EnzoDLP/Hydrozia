@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.170.112.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716035537167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716037652534
+  login: 1716033114960
+money: '45.126000000000001215'
+last-account-name: azerto
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.5
+  y: 69.0
+  z: 0.5
+  yaw: -180.0
+  pitch: 0.0
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.9006208562018204
+  y: 68.0
+  z: -2.4639725569693725
+  yaw: 16.90800666809082
+  pitch: 14.687314987182617

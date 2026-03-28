@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.132.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714929974547
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714930093131
+  login: 1714923929347
+  kits:
+    base: 1714862686693
+money: '716.022000000000001698'
+last-account-name: LeChatDeChantier
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 1989.397682178068
+  y: 94.0
+  z: 371.19310015960497
+  yaw: 83.7352294921875
+  pitch: 2.652960777282715
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.10377012753222442
+  y: 66.5
+  z: 11.662217470254605
+  yaw: 93.302978515625
+  pitch: 6.471130847930908
+homes:
+  home:
+    world: 1969a7dc-662d-423e-86db-145ce51cb06b
+    world-name: world_nether
+    x: 1785.237171196873
+    y: 40.0
+    z: -533.9068640177815
+    yaw: 102.403076171875
+    pitch: 34.9494514465332

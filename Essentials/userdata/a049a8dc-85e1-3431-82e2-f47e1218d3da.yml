@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.28.169.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721941358028
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721942208339
+  login: 1721939357036
+  kits:
+    base: 1721939580544
+money: '34.98912500000000622'
+last-account-name: bakakaka
+lastlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: 0.9140672408758007
+  y: -60.0
+  z: -32.056418018598904
+  yaw: -175.28958129882812
+  pitch: 4.699643135070801
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -15.978729890571788
+  y: 66.0
+  z: 23.51901420982569
+  yaw: -166.2406005859375
+  pitch: 18.737215042114258

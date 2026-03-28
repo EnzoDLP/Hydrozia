@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.81.127.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716651083302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716715690138
+  login: 1716650264702
+  kits:
+    base: 1716651984496
+money: '21.46999999999999913'
+last-account-name: LesFlansSontGay
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 26.44503280693288
+  y: 64.0
+  z: 130.69699947854403
+  yaw: 168.85781860351562
+  pitch: 10.037357330322266
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

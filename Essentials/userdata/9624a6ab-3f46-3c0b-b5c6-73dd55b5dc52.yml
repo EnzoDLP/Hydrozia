@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.29.224.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718128823449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718129541774
+  login: 1718127837156
+money: '0'
+last-account-name: zaakouille
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 500.5
+  y: 100.0
+  z: 520.5
+  yaw: -179.69851684570312
+  pitch: -1.0502456426620483
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 510.81386952910134
+  y: 100.41999998688698
+  z: 506.9063422821313
+  yaw: 130.25274658203125
+  pitch: 20.089200973510742

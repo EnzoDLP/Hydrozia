@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.149.36.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714898047247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714898204111
+  login: 1714897639101
+money: '0'
+last-account-name: 32Gmouton
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -71.86950897679421
+  y: 62.0
+  z: -0.564454648416996
+  yaw: -92.59246063232422
+  pitch: -45.61265182495117
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -14.957748640755769
+  y: 66.0
+  z: -15.924241837621794
+  yaw: 80.9997787475586
+  pitch: 9.15024471282959

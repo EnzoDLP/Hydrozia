@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.201.253.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722953165116
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722953170076
+  login: 1722952021865
+  kits:
+    base: 1722952183721
+money: '1.57000000000000002'
+last-account-name: Ismael_lkh
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 56.71757398017849
+  y: 90.0
+  z: -57.45782459471873
+  yaw: 87.96023559570312
+  pitch: 7.19945764541626
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -501.2119173108096
+  y: 101.0
+  z: -499.78673808277546
+  yaw: -60.791805267333984
+  pitch: 24.664133071899414

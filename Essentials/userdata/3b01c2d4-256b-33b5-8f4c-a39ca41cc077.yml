@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.219.53.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714064413419
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714065857140
+  login: 1714063623519
+  kits:
+    base: 1714065272393
+money: '89.582000000000001595'
+last-account-name: SauceMishi
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1.8030832917099133
+  y: 62.0
+  z: -119.65863167472504
+  yaw: -153.80796813964844
+  pitch: 21.34934425354004
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.9648437292674542
+  y: 65.0
+  z: -15.05297354943447
+  yaw: 145.97877502441406
+  pitch: 14.85326862335205

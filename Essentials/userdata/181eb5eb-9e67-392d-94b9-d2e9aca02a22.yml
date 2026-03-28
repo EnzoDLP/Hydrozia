@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.168.33.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722620141610
+  login: 1722619510592
+money: '6.889875000000000060'
+last-account-name: PINKMAN
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5107190917908853
+  y: 65.0
+  z: -14.13720259861848
+  yaw: -177.64195251464844
+  pitch: -0.9126827716827393
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 885.6812078247025
+  y: 63.0
+  z: -2282.213975353797
+  yaw: -91.38800048828125
+  pitch: 17.849977493286133

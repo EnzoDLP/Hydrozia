@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.103.40.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713032423231
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713032768501
+  login: 1713032239381
+money: '6.06000000000000045'
+last-account-name: 69Storm
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1197.3608393812622
+  y: 72.0
+  z: 1164.300000011921
+  yaw: 122.49742126464844
+  pitch: 90.0
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 56.691805778723655
+  y: 64.0
+  z: -90.27700295218027
+  yaw: -90.46832275390625
+  pitch: 51.54469299316406

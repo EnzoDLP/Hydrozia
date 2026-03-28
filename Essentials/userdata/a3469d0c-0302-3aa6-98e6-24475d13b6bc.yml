@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.136.66.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721245881276
+  login: 1721245791618
+  kits:
+    base: 1718099114633
+money: '2.80999999999999999'
+last-account-name: Nelaks_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -29.511237136416185
+  y: 65.5
+  z: -1.7984374970653234
+  yaw: 149.657470703125
+  pitch: 60.287330627441406
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1.1211817120275687
+  y: 66.0
+  z: 45.241139088881376
+  yaw: 164.6575927734375
+  pitch: 30.887441635131836

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.116.243.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715502750395
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715502838828
+  login: 1715502384164
+  kits:
+    base: 1715181205238
+money: '563.387974999999974242'
+last-account-name: DANSI857
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 25.956191090982
+  y: 65.76636799395752
+  z: -0.27595135099530743
+  yaw: 30.257699966430664
+  pitch: 22.037548065185547
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 853.2664434074813
+  y: 60.26039982345412
+  z: 87.25296942332824
+  yaw: -24.974149703979492
+  pitch: 4.473501205444336
+homes:
+  home:
+    world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+    world-name: world_resources
+    x: 51.69999998807907
+    y: 61.0
+    z: 1229.7710644985077
+    yaw: 66.15188598632812
+    pitch: 41.25003433227539

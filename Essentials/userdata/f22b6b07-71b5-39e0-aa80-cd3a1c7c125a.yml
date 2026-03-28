@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.110.213.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715248731797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715249049468
+  login: 1715247690146
+  kits:
+    base: 1715247904024
+money: '8.76500000000000019'
+last-account-name: Neqzhs
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.13527124260440573
+  y: 66.0
+  z: -12.260083888299285
+  yaw: 178.5865478515625
+  pitch: 14.433835983276367
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 553.3552634088086
+    y: 88.0
+    z: 1572.522806390894
+    yaw: 151.75942993164062
+    pitch: 21.975292205810547
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -176.6589813232422
+  pitch: 13.702352523803711

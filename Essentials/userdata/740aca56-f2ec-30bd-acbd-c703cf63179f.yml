@@ -1,0 +1,67 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.172.42.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718613086281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718980211518
+  login: 1718980188093
+  kits:
+    base: 1717856078005
+money: '161446.312800000074482761'
+last-account-name: Kuryzo
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.4996873133670185
+  y: 67.0
+  z: -0.46992514169755506
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 25.426807127753065
+  y: 66.0
+  z: 7.042457864601522
+  yaw: -160.5391387939453
+  pitch: -0.022277116775512695
+homes:
+  home:
+    world: a3d1663b-6338-4c9e-a980-453eef0b3a77
+    world-name: world_nether
+    x: 698.6999999880791
+    y: 200.0
+    z: 1768.699999988079
+    yaw: 159.364013671875
+    pitch: -11.501302719116211
+  fw:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4998.5
+    y: -53.9999998
+    z: -5004.5
+    yaw: 159.0703125
+    pitch: -7.893369674682617
+  bp:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 3401.056100504759
+    y: -59.0
+    z: 4153.355032042958
+    yaw: -172.8425750732422
+    pitch: 5.00335168838501
+ignore:
+- cea3cf42-0ff5-31b5-9e03-2226f8ec6327

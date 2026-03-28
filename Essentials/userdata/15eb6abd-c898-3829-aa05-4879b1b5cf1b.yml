@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.145.116.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716493184028
+  login: 1716493049167
+money: '0'
+last-account-name: P3tit_Luu
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 10.410370112558828
+  y: 66.0
+  z: 13.965052782650007
+  yaw: -128.74183654785156
+  pitch: -16.662704467773438

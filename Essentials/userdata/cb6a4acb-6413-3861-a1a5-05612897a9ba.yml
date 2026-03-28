@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.26.101.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720192206404
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720192351314
+  login: 1720191148504
+  kits:
+    base: 1720192041649
+money: '0.0'
+last-account-name: PwAbyss
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -6.827692267670983
+  y: 63.0
+  z: -78.45686638843029
+  yaw: -6.04165506362915
+  pitch: 14.987296104431152
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.9473141967388774
+  y: 65.0
+  z: -32.990599603521495
+  yaw: 3.70831298828125
+  pitch: 5.987354278564453

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.196.77.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713698192421
+  login: 1713698070600
+money: '0'
+last-account-name: Lefix5454
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.8762401951714813
+  y: 65.0
+  z: 31.31472893788515
+  yaw: 25.46136474609375
+  pitch: 1.9373728036880493

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.170.124.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716334616660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716334658291
+  login: 1716332558460
+  kits:
+    base: 1715643709480
+money: '1470.953500000000012881'
+last-account-name: mvt_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -4801.470939663713
+  y: -59.0
+  z: -2104.9543936219616
+  yaw: -1.0516421794891357
+  pitch: 0.978746771812439
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -4794.974864341815
+  y: -59.0
+  z: -1778.4273020644869
+  yaw: 142.54603576660156
+  pitch: 19.049592971801758
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4795.482433932191
+    y: -59.0
+    z: -1776.4152346891717
+    yaw: 177.94496154785156
+    pitch: 5.099639892578125

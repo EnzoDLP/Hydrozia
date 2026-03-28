@@ -1,0 +1,203 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# To make the kit execute a command, add /<command> to the items list. Use {USERNAME} to specify the player receiving the kit.
+# {PLAYER} will show the player's displayname instead of username.
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+#
+# In addition, you can also organize your kits into separate files under the `kits` subdirectory.
+# Essentials will treat all .yml files in the `kits` subdirectory as kits files, and will add any kits from those files along with the kits in `kits.yml`.
+# Any file in the `kits` subdirectory must be formatted in the same way as this file. This allows you to define multiple kits in each file.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  base:
+    delay: 100
+    items:
+      - /minecraft:give {USERNAME} written_book{pages:['["",{"text":"Bienvenue
+        sur Hydrozia !","bold":true,"color":"dark_blue"},{"text":"\\n\\n"},{"text":"Pour
+        tout comprendre sur le serveur, tu peux visionner
+        ","color":"black"},{"text":"cette vidéo explicative [CLIQUE
+        ICI]","color":"dark_aqua","clickEvent":{"action":"open_url","value":"https://www.youtube.com/watch?v=G311Q4QjgxQ"}},{"text":"
+        (attention, elle n\'est pas à jour)"},{"text":", lire ce
+        livre ou encore lire les panneaux informatifs situé dans le
+        spawn.","color":"black"}]','["",{"text":"Information
+        globale","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n"},{"text":"Tu
+        retrouveras tout un tas de raccourcis dans le menu avec la commande
+        ","color":"black"},{"text":"/menu","bold":true,"color":"black"}]','["",{"text":"Les
+        bases","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nPour
+        faire votre base, vous devez être dans le monde dédié aux
+        factions.\\nVous pouvez seulement construire en dehors de la Warzone
+        (zone de combat qui se situe autour du spawn)"}]','{"text":"2.\\nPour protéger votre base, il
+        est fortement\\nconseillé de créer ou rejoindre une faction afin de
+        pouvoir claim.\\n/f help pour afficher la liste des commandes et aides
+        au sujet des factions."}','{"text":"3.\\nAttention, c\'est à vous de
+        vous informer sur les techniques de défenses pour que personne ne puisse
+        voler votre stuff.\\nGoogle est votre ami (et encore\\nplus YouTube) !\\nPS -> Les Shulkers sont désactivés"}','["",{"text":"Les
+        niveaux","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nEn
+        plus du principe d\'XP de base de Minecraft, il est possible de monter
+        votre personnage niveau 100. Vous gagnerez de l\'XP en tuant des mobs ou
+        en restant connecté au serveur."}]','{"text":"2.\\nLes
+        niveaux vous permettent de débloquer des achats d\\u2019items exclusifs
+        dans des shops situés au spawn (/levels -> pour voir votre
+        progression).\\n\\n3.\\nAvec le Grade VIP, vous gagnerez +15%
+        d\\u2019XP."}','["",{"text":"Les
+        events","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nTous
+        les jours, des events font leur apparition.\\nSi vous remportez
+        l\\u2019un d\\u2019eux, vous serez récompensés par des Âmes.\\nLes âmes
+        vous permettent d\\u2019acheter des items exclusifs au
+        spawn."}]','{"text":"2.\\nPour retrouver les différentes
+        horaires des events -> /events\\nKOTH -> Contrôler une zone sans être
+        contesté / TOTEM -> Détruire le totem sans être contesté / BOSS -> Être
+        le premier à tuer un boss / PÊCHE -> Différents défis autour de la
+        pêche."}','{"text":"3.\\nA noter que la pêche est différente sur
+        Hydrozia. Vous retrouverez de nouveaux poissons et pourrez même les
+        revendre.\\nPlus votre poisson est rare et gros, plus il se vendra cher !\\nInformations -> /emf help"}','["",{"text":"Les
+        mondes","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nPour
+        récolter des ressources (minerais, blocs, ...), vous pouvez vous rendre
+        dans l\\u2019un des mondes dédiés aux ressources (end, ressources,
+        nether).\\nLes portails se trouvent au
+        spawn."}]','{"text":"2.\\nCe sont des mondes par défaut
+        de Minecraft. Ils ne sont pas faits pour faire sa base mais seulement
+        pour farm des ressources.\\nAttention, ces mondes sont réinitialisé 1
+        fois par mois.\\n "}','{"text":"3.\\nSi vous le souhaitez, vous pouvez
+        vendre vos ressources dans le /shop instantanément ou décider d\\u2019un
+        prix pour les vendre auprès des joueurs dans le /hdv"}','["",{"text":"Le
+        PVP","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nVous
+        pouvez créer un groupe\\n(appelé faction) pour jouer et évoluer avec vos
+        amis.\\n/f create NAME -> créer votre faction\\n/f claim -> protège un
+        chunk\\n/f help -> toutes les
+        informations"}]','{"text":"2.\\nPour créer votre base ou
+        piller celle des autres, il vous faut obligatoirement être dans le monde
+        principal.\\nCet endroit qui s\'appelle le spawn est le seul endroit ou
+        le PVP est désactivé."}','{"text":"3.\\nVous pourrez également retrouver
+        un monde duel. Celui-ci est différent, il vous permettra seulement de
+        faire des duels contre d\\u2019autres joueurs sans faire perdre de power
+        à votre faction."}','["",{"text":"Les
+        métiers","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nSur
+        Hydrozia, vous avez 9 métiers qui vous permettent de gagner de
+        l\\u2019argent et des récompenses.\\n/jobs -> toutes les informations et
+        commandes sur les métiers"}]','{"text":"2.\\nPour chaque
+        action, vous gagnerez de l\'argent. Plus vous montez en niveau dans
+        votre métier, plus les actions vous donneront de l\'argent.\\nVous
+        retrouverez tous les raccourcis pour les métiers dans le menu
+        (/menu)."}','{"text":"3.\\nVous avez également des quêtes journalières
+        pour chaque métier qui vous permettent de gagner des âmes.\\n/jobs
+        quests"}','["",{"text":"Les
+        cosmétiques","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nDifférents
+        cosmétiques sont disponibles sur le serveur. Ils sont tous seulement
+        visuels et ne confèrent AUCUN avantage.\\nPet -> Famillier qui vous
+        suit.\\nCosmétiques -> Costume qui s\\u2019ajoute par dessus votre
+        stuff."}]','{"text":"Panoplies -> Items en netherite
+        avec un aspect visuel différent.\\nTitre -> Texte affiché devant votre
+        pseudo\\n\\n2.\\nGénéralement, vous pourrez les débloquer dans la
+        /boutique mais également lors d\'events ou
+        autres."}','{"text":"3.\\nPlusieurs commandes sont disponibles pour y
+        accéder.\\n/titre\\n/pets\\n/warp cosmetic\\n/warp
+        panoplies"}'],title:"Explications
+        Hydrozia",author:Hydrozia,display:{Lore:["Ce livre te permettra de
+        comprendre les fonctionnalités de Hydrozia afin de pouvoir jouer dans
+        les meilleures conditions."]}}
+      - stone_sword 1
+      - /minecraft:give {USERNAME} leather_helmet 1
+      - /minecraft:give {USERNAME} leather_chestplate 1
+      - /minecraft:give {USERNAME} leather_leggings 1
+      - /minecraft:give {USERNAME} leather_boots 1
+      - rotten_flesh 16
+  newbies:
+    delay: 0
+    items:
+      - /minecraft:give {USERNAME} written_book{pages:['["",{"text":"Bienvenue
+        sur Hydrozia !","bold":true,"color":"dark_blue"},{"text":"\\n\\n"},{"text":"Pour
+        tout comprendre sur le serveur, tu peux visionner
+        ","color":"black"},{"text":"cette vidéo explicative [CLIQUE
+        ICI]","color":"dark_aqua","clickEvent":{"action":"open_url","value":"https://www.youtube.com/watch?v=G311Q4QjgxQ"}},{"text":"
+        (attention, elle n\'est pas à jour)"},{"text":", lire ce
+        livre ou encore lire les panneaux informatifs situé dans le
+        spawn.","color":"black"}]','["",{"text":"Information
+        globale","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n"},{"text":"Tu
+        retrouveras tout un tas de raccourcis dans le menu avec la commande
+        ","color":"black"},{"text":"/menu","bold":true,"color":"black"}]','["",{"text":"Les
+        bases","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nPour
+        faire votre base, vous devez être dans le monde dédié aux
+        factions.\\nVous pouvez seulement construire en dehors de la Warzone
+        (zone de combat qui se situe autour du spawn)"}]','{"text":"2.\\nPour protéger votre base, il
+        est fortement\\nconseillé de créer ou rejoindre une faction afin de
+        pouvoir claim.\\n/f help pour afficher la liste des commandes et aides
+        au sujet des factions."}','{"text":"3.\\nAttention, c\'est à vous de
+        vous informer sur les techniques de défenses pour que personne ne puisse
+        voler votre stuff.\\nGoogle est votre ami (et encore\\nplus YouTube) !\\nPS -> Les Shulkers sont désactivés"}','["",{"text":"Les
+        niveaux","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nEn
+        plus du principe d\'XP de base de Minecraft, il est possible de monter
+        votre personnage niveau 100. Vous gagnerez de l\'XP en tuant des mobs ou
+        en restant connecté au serveur."}]','{"text":"2.\\nLes
+        niveaux vous permettent de débloquer des achats d\\u2019items exclusifs
+        dans des shops situés au spawn (/levels -> pour voir votre
+        progression).\\n\\n3.\\nAvec le Grade VIP, vous gagnerez +15%
+        d\\u2019XP."}','["",{"text":"Les
+        events","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nTous
+        les jours, des events font leur apparition.\\nSi vous remportez
+        l\\u2019un d\\u2019eux, vous serez récompensés par des Âmes.\\nLes âmes
+        vous permettent d\\u2019acheter des items exclusifs au
+        spawn."}]','{"text":"2.\\nPour retrouver les différentes
+        horaires des events -> /events\\nKOTH -> Contrôler une zone sans être
+        contesté / TOTEM -> Détruire le totem sans être contesté / BOSS -> Être
+        le premier à tuer un boss / PÊCHE -> Différents défis autour de la
+        pêche."}','{"text":"3.\\nA noter que la pêche est différente sur
+        Hydrozia. Vous retrouverez de nouveaux poissons et pourrez même les
+        revendre.\\nPlus votre poisson est rare et gros, plus il se vendra cher !\\nInformations -> /emf help"}','["",{"text":"Les
+        mondes","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nPour
+        récolter des ressources (minerais, blocs, ...), vous pouvez vous rendre
+        dans l\\u2019un des mondes dédiés aux ressources (end, ressources,
+        nether).\\nLes portails se trouvent au
+        spawn."}]','{"text":"2.\\nCe sont des mondes par défaut
+        de Minecraft. Ils ne sont pas faits pour faire sa base mais seulement
+        pour farm des ressources.\\nAttention, ces mondes sont réinitialisé 1
+        fois par mois.\\n "}','{"text":"3.\\nSi vous le souhaitez, vous pouvez
+        vendre vos ressources dans le /shop instantanément ou décider d\\u2019un
+        prix pour les vendre auprès des joueurs dans le /hdv"}','["",{"text":"Le
+        PVP","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nVous
+        pouvez créer un groupe\\n(appelé faction) pour jouer et évoluer avec vos
+        amis.\\n/f create NAME -> créer votre faction\\n/f claim -> protège un
+        chunk\\n/f help -> toutes les
+        informations"}]','{"text":"2.\\nPour créer votre base ou
+        piller celle des autres, il vous faut obligatoirement être dans le monde
+        principal.\\nCet endroit qui s\'appelle le spawn est le seul endroit ou
+        le PVP est désactivé."}','{"text":"3.\\nVous pourrez également retrouver
+        un monde duel. Celui-ci est différent, il vous permettra seulement de
+        faire des duels contre d\\u2019autres joueurs sans faire perdre de power
+        à votre faction."}','["",{"text":"Les
+        métiers","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nSur
+        Hydrozia, vous avez 9 métiers qui vous permettent de gagner de
+        l\\u2019argent et des récompenses.\\n/jobs -> toutes les informations et
+        commandes sur les métiers"}]','{"text":"2.\\nPour chaque
+        action, vous gagnerez de l\'argent. Plus vous montez en niveau dans
+        votre métier, plus les actions vous donneront de l\'argent.\\nVous
+        retrouverez tous les raccourcis pour les métiers dans le menu
+        (/menu)."}','{"text":"3.\\nVous avez également des quêtes journalières
+        pour chaque métier qui vous permettent de gagner des âmes.\\n/jobs
+        quests"}','["",{"text":"Les
+        cosmétiques","bold":true,"underlined":true,"color":"dark_red"},{"text":"\\n\\n1.\\nDifférents
+        cosmétiques sont disponibles sur le serveur. Ils sont tous seulement
+        visuels et ne confèrent AUCUN avantage.\\nPet -> Famillier qui vous
+        suit.\\nCosmétiques -> Costume qui s\\u2019ajoute par dessus votre
+        stuff."}]','{"text":"Panoplies -> Items en netherite
+        avec un aspect visuel différent.\\nTitre -> Texte affiché devant votre
+        pseudo\\n\\n2.\\nGénéralement, vous pourrez les débloquer dans la
+        /boutique mais également lors d\'events ou
+        autres."}','{"text":"3.\\nPlusieurs commandes sont disponibles pour y
+        accéder.\\n/titre\\n/pets\\n/warp cosmetic\\n/warp
+        panoplies"}'],title:"Explications
+        Hydrozia",author:Hydrozia,display:{Lore:["Ce livre te permettra de
+        comprendre les fonctionnalités de Hydrozia afin de pouvoir jouer dans
+        les meilleures conditions."]}}
+  vip:
+    delay: 82800
+    items:
+      - /excellentcrates key give {USERNAME} clé_rare 1
+      - /excellentcrates key give {USERNAME} clé_légendaire 1
+      - /excellentcrates key give {USERNAME} clé_mythique 1

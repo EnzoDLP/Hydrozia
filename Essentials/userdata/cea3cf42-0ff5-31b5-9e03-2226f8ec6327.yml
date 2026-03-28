@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.142.53.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718031424164
+  login: 1718031400997
+money: '0'
+last-account-name: FuzeIII
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 49.54188929333472
+  y: 67.7531999805212
+  z: -59.701558497244875
+  yaw: 84.25958251953125
+  pitch: 21.300167083740234

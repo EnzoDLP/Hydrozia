@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.205.104.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719081001409
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719081126516
+  login: 1719079984459
+  kits:
+    base: 1719080504523
+money: '11.87150000000000042'
+last-account-name: kiki22500
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.7469434858507593
+  y: 69.0
+  z: -0.5418337365746377
+  yaw: -177.14071655273438
+  pitch: 7.8946533203125
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 1292.300000011921
+  y: 61.0
+  z: -1252.699999988079
+  yaw: -32.6960334777832
+  pitch: -2.940368413925171

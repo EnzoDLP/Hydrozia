@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.168.92.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719242105329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719242144539
+  login: 1719241438480
+  kits:
+    base: 1719242097672
+money: '209.71622500000000114'
+last-account-name: zayco_la_lopesa
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.20929260752424164
+  y: 68.0
+  z: -5.251842060782357
+  yaw: -178.97317504882812
+  pitch: 7.074879169464111
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1868.7843151575569
+  y: 67.0
+  z: 652.3616439901111
+  yaw: 171.44915771484375
+  pitch: 30.075353622436523
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1876.0465320834421
+    y: 69.0
+    z: 638.466722438292
+    yaw: 30.766925811767578
+    pitch: 21.244035720825195

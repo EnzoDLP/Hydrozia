@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.233.155.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715340709296
+  login: 1715340417275
+  kits:
+    base: 1715340508721
+money: '1.54000000000000004'
+last-account-name: Latrodectuss
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -115.73574841445483
+  y: 64.0
+  z: -61.772683060728106
+  yaw: -102.33453369140625
+  pitch: 4.937259197235107
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.49246656592002375
+  y: 65.0
+  z: -17.13630572845895
+  yaw: -179.14349365234375
+  pitch: 29.83719825744629

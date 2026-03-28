@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.220.43.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715715396819
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715715735184
+  login: 1715714575169
+money: '1.34000000000000005'
+last-account-name: rockpvp
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3.618567876239977
+  y: 66.0
+  z: 38.15146883485388
+  yaw: -159.94329833984375
+  pitch: -1.0627104043960571
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.392346879170731
+  y: 68.0
+  z: -1.2760472763105304
+  yaw: -168.1920623779297
+  pitch: 19.337234497070312

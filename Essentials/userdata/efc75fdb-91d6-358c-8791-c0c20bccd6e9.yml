@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.106.194.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724679745846
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724679776054
+  login: 1724679249796
+money: '7.97000000000000010'
+last-account-name: PueLeNem
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 2.0035573553608472
+  y: 59.86644743419255
+  z: -431.57501110181425
+  yaw: 179.00363159179688
+  pitch: 9.151931762695312
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 27.11610898814365
+  y: 66.5
+  z: 8.422851772916411
+  yaw: -70.2607421875
+  pitch: 17.728130340576172

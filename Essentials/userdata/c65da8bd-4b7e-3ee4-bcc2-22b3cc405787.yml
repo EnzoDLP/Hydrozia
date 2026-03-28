@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.243.255.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717242037649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717242171969
+  login: 1717241454799
+  kits:
+    base: 1717241706086
+money: '11.810500000000000530'
+last-account-name: _Laizzics_
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7173240963842633
+  y: 68.0
+  z: -5.1173490802257655
+  yaw: -123.51559448242188
+  pitch: -16.776609420776367
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 43.81881399578412
+  y: 63.0
+  z: -254.25135894083655
+  yaw: 164.94744873046875
+  pitch: 34.93982696533203

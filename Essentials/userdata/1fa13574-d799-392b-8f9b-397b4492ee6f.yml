@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.182.137.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719781851600
+  login: 1719781725297
+money: '0'
+last-account-name: MrBlackWolf15
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.15990559807266164
+  y: 65.0
+  z: -13.343091494561818
+  yaw: -1.15460205078125
+  pitch: 2.261488676071167

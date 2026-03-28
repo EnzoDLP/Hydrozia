@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.49.42.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716314792060
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720886182652
+  login: 1720886165701
+  kits:
+    base: 1716315602742
+money: '35.632499999999998970'
+last-account-name: EncoreZaannn
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2290.843506079365
+  y: 48.0
+  z: -2420.300000011921
+  yaw: 32.9527587890625
+  pitch: 33.09357452392578
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1814.2768086011959
+    y: 8.0
+    z: -1722.5674745564172
+    yaw: -83.50579833984375
+    pitch: 31.270469665527344

@@ -1,0 +1,99 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.171.220.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723295806248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723296167711
+  login: 1723294483350
+  kits:
+    vip: 1717362662077
+money: '43934.869474999976243583'
+last-account-name: royer00
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -499.5
+  y: 101.0000001
+  z: -499.5
+  yaw: -90.73263549804688
+  pitch: -1.1570799350738525
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -499.5
+  y: 101.0
+  z: -499.5
+  yaw: -90.00029754638672
+  pitch: -0.012779861688613892
+ignore:
+- 2ac9c414-9574-3ed3-a6a2-7ee9754056cc
+homes:
+  koth:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -135.892832946174
+    y: 63.0
+    z: -173.39672910798157
+    yaw: 2.4545745849609375
+    pitch: 19.7148380279541
+  totem:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 140.0769283604222
+    y: 65.0
+    z: 166.91795180847853
+    yaw: 158.84619140625
+    pitch: 20.996477127075195
+  bpot:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -3570.872513892296
+    y: 24.0
+    z: 2188.8015398400266
+    yaw: 174.4261932373047
+    pitch: 14.236109733581543
+  sable:
+    world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+    world-name: world_resources
+    x: 2304.999248800162
+    y: 63.0
+    z: -295.85959212069923
+    yaw: -177.96607971191406
+    pitch: 9.91138744354248
+  xloginbc:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4982.415041409078
+    y: -46.0
+    z: -4999.220827214835
+    yaw: -26.42499542236328
+    pitch: 21.265230178833008
+  bstuff1:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1285.699999988079
+    y: 65.0
+    z: -4791.300000011921
+    yaw: 131.34800720214844
+    pitch: 20.99727439880371
+  end:
+    world: eaf27b62-d807-4dc5-914f-f858bfc0447c
+    world-name: world_the_end
+    x: 141.55657955882756
+    y: 58.0
+    z: 2838.300000011921
+    yaw: 170.6968994140625
+    pitch: 11.409806251525879

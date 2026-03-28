@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.131.3.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718034086948
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718034156035
+  login: 1718032334997
+money: '104.934500000000069155'
+last-account-name: DriftyGolf92735
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1287.3357513862147
+  y: 70.0
+  z: -1705.562547633565
+  yaw: -105.82073974609375
+  pitch: 8.249734878540039
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.792219757393402
+  y: 68.0
+  z: 0.05443541229710239
+  yaw: -79.24188232421875
+  pitch: 14.087275505065918

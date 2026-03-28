@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.86.184.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724196386207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724196993213
+  login: 1724195798921
+  kits:
+    base: 1724196258212
+money: '0'
+last-account-name: Pigeonmasked
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -497.5744453591118
+  y: 101.0
+  z: -499.72158240695387
+  yaw: -94.6917724609375
+  pitch: 19.714120864868164
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -11.631246737964924
+  y: 67.0
+  z: -577.5429473219732
+  yaw: 149.802490234375
+  pitch: 19.93731689453125

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.201.96.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720221587162
+  login: 1720221124304
+money: '0'
+last-account-name: mincklan
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -57.42272573606102
+  y: 67.0
+  z: 0.6210681439531324
+  yaw: -122.6597900390625
+  pitch: 9.991188049316406
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1699.5785663775591
+  y: 78.0
+  z: -1446.0042528532226
+  yaw: -31.513206481933594
+  pitch: 17.77198028564453

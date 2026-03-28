@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.208.172.230
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713964438266
+  login: 1713963838994
+money: '1.48000000000000004'
+last-account-name: GregGhost7
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -1.2738522608117604
+  y: 69.0
+  z: -3.6354004015269252
+  yaw: -169.80108642578125
+  pitch: -24.749828338623047
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -2122.679599199992
+  y: 68.0
+  z: -1187.7037502388293
+  yaw: 20.549203872680664
+  pitch: 8.99998950958252

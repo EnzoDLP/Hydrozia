@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.114.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714735296819
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715350392196
+  login: 1715350252417
+  kits:
+    base: 1714581218551
+money: '3.25000000000000022'
+last-account-name: Loeyl_gaming
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -60.6424560546875
+  pitch: 5.700080394744873
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1168.699999988079
+  y: 63.0
+  z: -885.5209460038047
+  yaw: -80.87420654296875
+  pitch: 37.350303649902344
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1131.2995836964574
+    y: 71.0
+    z: -950.5923649978936
+    yaw: 141.4415283203125
+    pitch: 8.39979076385498

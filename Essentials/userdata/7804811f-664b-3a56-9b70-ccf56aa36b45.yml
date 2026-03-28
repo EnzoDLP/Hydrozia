@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.166.149.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713826026563
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713827258027
+  login: 1713820509313
+  kits:
+    vip: 1713824394596
+money: '25916.193199999985288464'
+last-account-name: vZaaRko
+lastlocation:
+  world: e1383e3f-914c-4491-846d-b3baf552fc8a
+  world-name: world_the_end
+  x: 2656.55468202754
+  y: 61.0
+  z: 1538.4112201676292
+  yaw: 23.25347137451172
+  pitch: 12.599931716918945
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 2239.4372633409826
+    y: 40.0
+    z: 3066.9382144912197
+    yaw: 176.238525390625
+    pitch: 14.849844932556152
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1753.050000011921
+  y: 61.0
+  z: 2872.300000011921
+  yaw: -13.3543701171875
+  pitch: -0.599929690361023

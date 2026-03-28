@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.42.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722680562322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722681595180
+  login: 1722680440722
+  kits:
+    base: 1713993047073
+money: '715.423900000000151428'
+last-account-name: titou8
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -3343.5211846558764
+  y: 72.0
+  z: 2214.300000011921
+  yaw: -168.03248596191406
+  pitch: 3.100707530975342
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1398.699999988079
+    y: 63.0
+    z: 1261.2235883057358
+    yaw: 89.2030029296875
+    pitch: 80.90123748779297
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7754246343185849
+  y: 67.0
+  z: -49.16045670915623
+  yaw: -164.4097900390625
+  pitch: 38.68142318725586

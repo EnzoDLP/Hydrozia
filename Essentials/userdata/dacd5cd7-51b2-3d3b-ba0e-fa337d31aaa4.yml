@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.194.80.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713822266813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713822913329
+  login: 1713821625013
+  kits:
+    base: 1713822356041
+money: '31.62500000000000056'
+last-account-name: redhis
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 11.437491947762572
+  y: 66.0
+  z: 11.971594849641312
+  yaw: -86.18710327148438
+  pitch: 21.636629104614258
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1090.3192793837823
+  y: 121.0
+  z: 1329.294948982264
+  yaw: -21.635009765625
+  pitch: 20.52690315246582

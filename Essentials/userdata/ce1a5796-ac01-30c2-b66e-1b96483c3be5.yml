@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.140.48.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719564420354
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719569200464
+  login: 1719561778304
+money: '796.733125000000159250'
+last-account-name: SkyTals
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.5
+  y: 69.0
+  z: 0.5
+  yaw: -179.8514862060547
+  pitch: 0.14962460100650787
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1887.1570715209539
+    y: 110.0
+    z: 2080.0003889089085
+    yaw: -96.72265625
+    pitch: 87.1408920288086
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -2700.699999988079
+  y: 63.0
+  z: -1106.699999988079
+  yaw: -164.76806640625
+  pitch: 22.385953903198242

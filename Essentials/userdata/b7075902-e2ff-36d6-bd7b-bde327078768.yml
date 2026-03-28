@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.70.115.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714138456802
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714138465337
+  login: 1714137113552
+  kits:
+    base: 1714137417196
+money: '81.37900000000000025'
+last-account-name: experfou
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.4969933990659776
+  y: 68.0
+  z: -3.813435585308916
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 2036.699999988079
+  y: 80.0
+  z: -1484.300000011921
+  yaw: -43.918060302734375
+  pitch: -25.435659408569336

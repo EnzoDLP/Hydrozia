@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.171.202.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723869748820
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723869816327
+  login: 1723869201428
+  kits:
+    base: 1723869303591
+money: '1.71000000000000002'
+last-account-name: Koora_
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -22.553053061595474
+  y: 65.5
+  z: -4.477638785144875
+  yaw: -118.68901062011719
+  pitch: -5.099874973297119
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1235.3362603224632
+  y: 72.0
+  z: 1620.179350268459
+  yaw: 65.66229248046875
+  pitch: 3.750049114227295

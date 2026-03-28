@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.91.155.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718221732821
+  login: 1718221258789
+money: '9.77000000000000087'
+last-account-name: Fluidyfax
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 16.14510091840117
+  y: 66.0
+  z: -22.513467448591665
+  yaw: -170.1420135498047
+  pitch: 20.087318420410156
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1512.3129934882807
+  y: 54.0
+  z: 1381.300000011921
+  yaw: -39.332244873046875
+  pitch: 19.199657440185547

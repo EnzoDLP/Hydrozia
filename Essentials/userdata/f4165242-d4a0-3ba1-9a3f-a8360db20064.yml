@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.162.100.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714773631619
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714775048340
+  login: 1714771421019
+money: '274.56500000000000105'
+last-account-name: yrisque
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.5
+  y: 69.0
+  z: 0.5
+  yaw: 179.098876953125
+  pitch: 0.7496163845062256
+homes:
+  home:
+    world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+    world-name: world_resources
+    x: 365.79263009324853
+    y: -63.0
+    z: -616.5773206082242
+    yaw: 79.81829071044922
+    pitch: 23.5500545501709
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 401.1698022408314
+  y: -63.0
+  z: -624.6999999880791
+  yaw: 174.721923828125
+  pitch: 34.34979248046875

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.169.182.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716732900773
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717935479315
+  login: 1717935460512
+  kits:
+    base: 1716730572202
+money: '698.92150000000010093'
+last-account-name: glTF
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -575.9016719852208
+  y: 100.0
+  z: -2561.887761834612
+  yaw: -169.0302734375
+  pitch: 36.450286865234375
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -575.4809902790441
+    y: 82.0
+    z: -2566.5179539865517
+    yaw: 77.7191162109375
+    pitch: -10.897880554199219
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 152.12413024902344
+  pitch: 15.265708923339844

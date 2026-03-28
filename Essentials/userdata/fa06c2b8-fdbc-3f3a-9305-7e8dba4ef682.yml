@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.160.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715019825300
+  login: 1715019646167
+money: '0'
+last-account-name: goshimsclick_
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 396.22977717358106
+  y: 61.67362278420842
+  z: -440.1649938679831
+  yaw: -176.48764038085938
+  pitch: 20.213817596435547

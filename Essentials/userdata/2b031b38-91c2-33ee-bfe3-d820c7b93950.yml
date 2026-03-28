@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.119.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713388236256
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713391215424
+  login: 1713387803006
+money: '301.34199999999997061'
+last-account-name: Owtiti
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 3.825482203592038
+  y: 69.0
+  z: -12.31908875755689
+  yaw: 11.405120849609375
+  pitch: 0.7496247291564941
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 1945.0691365668777
+  y: 6.0
+  z: -715.4871891217908
+  yaw: 92.53936767578125
+  pitch: 19.94953727722168

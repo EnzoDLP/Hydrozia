@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.158.178.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714411792531
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714411803508
+  login: 1714411143930
+  kits:
+    base: 1713523275342
+money: '12944.286075000047234690'
+last-account-name: Pik_2_glacE
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -598.272023264499
+  y: 319.875
+  z: 4479.68057041107
+  yaw: 49.680721282958984
+  pitch: -11.25098991394043
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 25.33972036207464
+  y: 66.0
+  z: -16.11723111862173
+  yaw: 99.40847778320312
+  pitch: 13.487323760986328
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -593.3380143465982
+    y: 320.0
+    z: 4483.441740678651
+    yaw: -115.02342224121094
+    pitch: 90.0

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.161.92.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713228709439
+  login: 1713217068931
+  kits:
+    base: 1713218239635
+money: '69.07300000000000152'
+last-account-name: SunkRug42
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 76.30000001192093
+  y: -32.0
+  z: 511.69999998807907
+  yaw: -118.19970703125
+  pitch: 66.4500503540039
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 17.169313788685834
+  y: 66.0
+  z: 312.95430602989734
+  yaw: 8.85003662109375
+  pitch: 24.899831771850586

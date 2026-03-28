@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.55.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713977606194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713978353108
+  login: 1713975457894
+money: '88.21499999999999938'
+last-account-name: Cedrino67
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1.1719416661324022
+  y: 66.5
+  z: -10.290750639347863
+  yaw: -78.79171752929688
+  pitch: 80.38736724853516
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 942.3000000119209
+  y: -59.0
+  z: -1831.0012672220673
+  yaw: 38.8050537109375
+  pitch: 2.999965190887451

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.51.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719825307362
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719825309622
+  login: 1719825242361
+money: '1.81000000000000006'
+last-account-name: soulgrime
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -498.9416809316587
+  y: 101.0
+  z: -499.4968206147148
+  yaw: -89.05490112304688
+  pitch: 12.072380065917969
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 499.87000783156725
+  y: 107.0
+  z: 543.9906619132532
+  yaw: 5.359496593475342
+  pitch: 42.12514114379883

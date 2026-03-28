@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.171.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715170199780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715170345410
+  login: 1715169684280
+  kits:
+    base: 1715169530189
+money: '6.54000000000000036'
+last-account-name: Capitaine_L
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 13.907910346984863
+  pitch: 34.950008392333984
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -14.484725834544934
+  y: 65.0
+  z: 0.9116360607257439
+  yaw: 110.95808410644531
+  pitch: 3.58732008934021

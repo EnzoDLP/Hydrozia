@@ -1,0 +1,2 @@
+&6Salut, {PLAYER}&6!
+&6Tape &c/menu&6 pour accéder aux différentes fonctionnalités de Hydrozia.

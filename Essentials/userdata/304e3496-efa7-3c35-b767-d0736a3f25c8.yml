@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.38.225.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722940265115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722941677989
+  login: 1722939410315
+money: '2.26000000000000012'
+last-account-name: MaxG
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 500.5
+  y: 100.0
+  z: 480.5
+  yaw: 0.14980484545230865
+  pitch: -1.3502134084701538
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 497.6976981588854
+  y: 99.0
+  z: 488.85321293961084
+  yaw: 0.6013379693031311
+  pitch: 17.549428939819336

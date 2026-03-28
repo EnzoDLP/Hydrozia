@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.144.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714498852719
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716563424852
+  login: 1716563318132
+money: '25.272500000000000380'
+last-account-name: Zatroque
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.719649049530836
+  y: 67.0
+  z: -0.3399606290942639
+  yaw: -179.2885284423828
+  pitch: 9.783596992492676
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 8.579255379366664
+  y: 67.0
+  z: -57.099566872185044
+  yaw: -112.50515747070312
+  pitch: 2.5306107997894287

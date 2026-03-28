@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.130.68.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714581117418
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714581346451
+  login: 1714580950120
+  kits:
+    base: 1714579062606
+money: '32.70000000000000184'
+last-account-name: darsud_12
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2330.4691601781547
+  y: 70.0
+  z: -2128.300000011921
+  yaw: 2.3041036128997803
+  pitch: 67.81170654296875
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 10.481026919548759
+  y: 66.0
+  z: -14.700615702674696
+  yaw: 178.75807189941406
+  pitch: 55.200077056884766
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 2362.7207159808354
+    y: 64.0
+    z: 523.3030030705253
+    yaw: -24.207910537719727
+    pitch: 20.504436492919922

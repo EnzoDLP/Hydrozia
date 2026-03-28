@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.168.25.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715767047478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715767401763
+  login: 1715766305178
+  kits:
+    base: 1715767219270
+money: '0.0'
+last-account-name: Shokugekick
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -61.30000001192093
+  y: 41.0
+  z: -400.2887920816991
+  yaw: -70.76437377929688
+  pitch: 27.438474655151367
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -4.736714804836989
+  y: 66.5
+  z: -6.999792614030477
+  yaw: -110.16000366210938
+  pitch: -15.320276260375977

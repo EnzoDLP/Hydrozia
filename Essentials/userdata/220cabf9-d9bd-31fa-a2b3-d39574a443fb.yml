@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.2.247.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718224940883
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718225904010
+  login: 1718224399493
+  kits:
+    base: 1718129794554
+money: '2422.769499999999969448'
+last-account-name: Maximator973
+lastlocation:
+  world: 78bb449f-a774-45aa-9361-22ba98f59bf5
+  world-name: world_the_end
+  x: 300.1526603855311
+  y: 65.0
+  z: -25.8148945323645
+  yaw: 50.7001953125
+  pitch: 2.0999138355255127
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -8.53053135725262
+  y: 65.0
+  z: 9.996355105830025
+  yaw: -137.29144287109375
+  pitch: 9.8873291015625
+homes:
+  home:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -2239.521266101566
+    y: 8.0
+    z: 2280.308152514914
+    yaw: 117.4171142578125
+    pitch: 43.18870544433594

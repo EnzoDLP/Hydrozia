@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.91.88.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715157452230
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715158137640
+  login: 1715155998730
+  kits:
+    base: 1715110314628
+money: '2283.44100000000085794'
+last-account-name: mibaka78
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 6.065720960173649
+  y: 66.5
+  z: -5.684033985217614
+  yaw: 67.60821533203125
+  pitch: -0.4626960754394531
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1090.3301357312603
+    y: -59.0
+    z: 4707.848717218797
+    yaw: -174.17144775390625
+    pitch: 27.599910736083984
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -18.207813699337326
+  y: 66.0
+  z: 9.055011091272183
+  yaw: 15.858098983764648
+  pitch: 14.08731746673584

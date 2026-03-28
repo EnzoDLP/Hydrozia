@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.225.41.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714977317517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715001264131
+  login: 1715001164617
+money: '0'
+last-account-name: lesbg
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -0.12125308830004261
+  y: 71.00851796900281
+  z: 3.699999988079071
+  yaw: -12.75152587890625
+  pitch: -82.50039672851562
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.49976999492278656
+  y: 67.0
+  z: -0.17434113986104463
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

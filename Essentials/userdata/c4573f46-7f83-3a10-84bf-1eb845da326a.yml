@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.241.192.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716205804721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716207082841
+  login: 1716205691320
+money: '210.32300000000000080'
+last-account-name: el_bambino__fr
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -0.1043685956988335
+  y: 69.0
+  z: -3.5254936459312667
+  yaw: -163.9517822265625
+  pitch: -7.0503740310668945
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 2429.488711764723
+  y: -54.0
+  z: -1560.5722343736113
+  yaw: 179.8052978515625
+  pitch: 14.999809265136719

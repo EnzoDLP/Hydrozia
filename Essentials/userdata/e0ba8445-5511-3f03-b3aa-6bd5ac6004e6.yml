@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.202.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721265299729
+  login: 1721263770568
+  kits:
+    base: 1721264483375
+money: '24.88600000000000018'
+last-account-name: safix66
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -0.39787804193866627
+  y: 69.0
+  z: -10.515241868369962
+  yaw: 105.44945526123047
+  pitch: 15.599979400634766
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -2034.355143893627
+  y: 58.0
+  z: 1697.8404699977207
+  yaw: 46.7999267578125
+  pitch: 43.50004196166992

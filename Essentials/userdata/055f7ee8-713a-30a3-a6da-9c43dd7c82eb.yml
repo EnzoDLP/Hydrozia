@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.27.14.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715744738328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715745853288
+  login: 1715744527072
+  kits:
+    base: 1715744895288
+money: '0'
+last-account-name: Jijirachi13
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -27.987744892059695
+  y: 69.0
+  z: 16.721656815785536
+  yaw: -166.5000762939453
+  pitch: 22.050010681152344
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 1115.3216795180379
+  y: 71.0
+  z: -1475.1889287011736
+  yaw: 59.70111083984375
+  pitch: 15.89976692199707

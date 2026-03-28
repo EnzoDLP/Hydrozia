@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.204.83.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716465768717
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716466062779
+  login: 1716465501467
+money: '0'
+last-account-name: Firixe
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 31.622652435612196
+  y: 66.0
+  z: -18.7741761357107
+  yaw: -79.54345703125
+  pitch: -1.9626692533493042
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.5473076318046204
+  y: 69.00838432787657
+  z: 3.680193765050063
+  yaw: -1.201263427734375
+  pitch: -12.60050106048584

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.119.83.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719241828129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719242095788
+  login: 1719240280579
+  kits:
+    base: 1719240322586
+money: '8.07900000000000037'
+last-account-name: ZAYC0
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: 0.07079336047172546
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1892.248832611805
+    y: 70.0
+    z: 708.141129648831
+    yaw: -7.010040283203125
+    pitch: 27.64447784423828
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1836.7234354644027
+  y: 51.0
+  z: 580.3240905789708
+  yaw: -19.695968627929688
+  pitch: 71.43975067138672

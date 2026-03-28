@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.36.12.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714412938330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714413515915
+  login: 1714413473733
+  kits:
+    base: 1714411109091
+money: '37.097500000000000565'
+last-account-name: NormalMcChicken
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -421.6488173408956
+  y: 45.0
+  z: -281.465925634363
+  yaw: -91.407958984375
+  pitch: 40.087799072265625
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -433.5073172185632
+  y: 64.0
+  z: -319.28931564036293
+  yaw: -135.60581970214844
+  pitch: 28.979867935180664

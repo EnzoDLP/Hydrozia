@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.32.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716221380120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716226544836
+  login: 1716221275732
+  kits:
+    base: 1716222108875
+money: '53.54500000000000050'
+last-account-name: mks522
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 2506.4360949314746
+  y: 11.0
+  z: -2218.1030189404605
+  yaw: 51.8857421875
+  pitch: -16.350072860717773
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.7488798624846218
+  y: 65.0
+  z: -25.78819761111534
+  yaw: -7.98114013671875
+  pitch: 1.9377440214157104

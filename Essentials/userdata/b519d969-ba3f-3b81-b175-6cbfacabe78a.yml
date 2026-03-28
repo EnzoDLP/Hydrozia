@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.134.244.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717182597884
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717183048600
+  login: 1717182977287
+  kits:
+    base: 1717182109082
+money: '6.20000000000000034'
+last-account-name: flemmedetekill
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -94.10286419623432
+  y: 64.0
+  z: -168.62295861359087
+  yaw: 128.7757568359375
+  pitch: 33.14846420288086
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 6.445001328233999
+  y: 66.0
+  z: -15.213777620328875
+  yaw: -97.53160095214844
+  pitch: 18.06089973449707

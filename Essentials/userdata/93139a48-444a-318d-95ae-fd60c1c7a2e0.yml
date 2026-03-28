@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.35.138.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719766804787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719766892003
+  login: 1719759841887
+  kits:
+    base: 1719762302857
+money: '1461.651599999999608244'
+last-account-name: natgamer89
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.1460866044818478
+  y: 68.0
+  z: -5.1189962895950245
+  yaw: 177.00294494628906
+  pitch: 1.8830745220184326
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -4481.716099560112
+  y: 29.0
+  z: -2148.66549681612
+  yaw: 142.800048828125
+  pitch: 28.502330780029297
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4479.530945660386
+    y: 72.0
+    z: -2145.300000011921
+    yaw: 174.58961486816406
+    pitch: 22.982528686523438

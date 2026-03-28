@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.255.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718651348313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718651382119
+  login: 1718651372066
+money: '6.93000000000000020'
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 54.7400863448433
+  y: 90.0
+  z: -50.695170207363184
+  yaw: -100.29202270507812
+  pitch: 13.799999237060547
+last-account-name: relfix59
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -465.8061415105354
+  y: 97.05302249974012
+  z: -500.2316979365137
+  yaw: -98.1004867553711
+  pitch: 14.387012481689453

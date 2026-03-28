@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.170.19.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714307367703
+  login: 1714307113129
+  kits:
+    base: 1714307299901
+money: '0'
+last-account-name: Ririrurupro
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.2304649316217802
+  y: 67.0
+  z: -47.84935950160342
+  yaw: -164.2920684814453
+  pitch: 7.487336158752441
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1193.5011935137334
+  y: 77.0
+  z: 1999.3731203725995
+  yaw: 1.791915774345398
+  pitch: 12.106515884399414

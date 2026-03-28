@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.131.163.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714233136131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714233283150
+  login: 1714232607680
+  kits:
+    base: 1714232893875
+money: '67.96999999999999999'
+last-account-name: Deviation_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7853003604934461
+  y: 67.0
+  z: 0.8584074038759846
+  yaw: -117.98846435546875
+  pitch: 14.175219535827637
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -10.011681916452908
+  y: 62.417024964930135
+  z: -1010.1848228302953
+  yaw: -176.56011962890625
+  pitch: -0.8785808086395264

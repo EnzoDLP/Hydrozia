@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.133.122.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717435507499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717436948620
+  login: 1717435473499
+  kits:
+    base: 1717433992578
+money: '7024.617499999995489338'
+last-account-name: rugby73
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 38.2928753022039
+  y: 66.0
+  z: -3.5930631644239317
+  yaw: -61.0902099609375
+  pitch: 33.1953010559082
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1621.2892596035508
+  y: 71.0
+  z: 791.2776827311321
+  yaw: 82.6405258178711
+  pitch: 17.621177673339844
+homes:
+  home:
+    world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+    world-name: world_resources
+    x: -2376.890660382688
+    y: -46.0
+    z: 710.1576582326808
+    yaw: 131.04922485351562
+    pitch: 9.396245002746582

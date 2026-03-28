@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.126.24.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719850837008
+  login: 1719849459790
+money: '12.19500000000000134'
+last-account-name: boomar_84
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.5271664342191391
+  y: 69.0
+  z: -1.4803092598384748
+  yaw: 79.95184326171875
+  pitch: 8.85030746459961
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: -1649.1363926358688
+  y: 69.22149363870948
+  z: -1845.3846331851119
+  yaw: -175.64654541015625
+  pitch: 38.549964904785156

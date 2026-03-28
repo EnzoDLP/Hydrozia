@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.13.131.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721900230928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721901634741
+  login: 1721899847478
+money: '105.19000000000000066'
+last-account-name: Maximeuuh
+lastlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: 3.5565226036632254
+  y: -38.0
+  z: 134.58008301786725
+  yaw: -70.73394775390625
+  pitch: 8.849998474121094
+logoutlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: 32.22174492137836
+  y: 27.681856923055022
+  z: 112.69918742039496
+  yaw: 25.927734375
+  pitch: 20.099998474121094

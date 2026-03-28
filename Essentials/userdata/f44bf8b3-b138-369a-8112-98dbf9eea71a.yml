@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.120.206.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723746847213
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723746980821
+  login: 1723744375863
+  kits:
+    base: 1721476168594
+money: '77.518374999999847438'
+last-account-name: Nicata
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 241.10700505155936
+  y: 63.0
+  z: 50.47192846819038
+  yaw: -101.1417236328125
+  pitch: -11.412721633911133
+lastlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: -35.52445238636232
+  y: -62.0
+  z: 128.67028546136012
+  yaw: -105.1171875
+  pitch: 8.250028610229492
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1897.70782405423
+    y: 67.0
+    z: 667.4929195955435
+    yaw: 157.505859375
+    pitch: 33.000003814697266

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.30.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715157753481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715158005901
+  login: 1715156194144
+  kits:
+    base: 1715157099486
+money: '30.94012500000000119'
+last-account-name: Citron_Rouge_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1040.7301609955825
+  y: 63.08576431274414
+  z: -2260.0238393375826
+  yaw: -104.77827453613281
+  pitch: 40.195274353027344
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2268.87718400657
+  y: -7.0
+  z: -2446.300000011921
+  yaw: -11.76873779296875
+  pitch: 47.88310623168945

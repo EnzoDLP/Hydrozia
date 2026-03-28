@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.59.75.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716373319852
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718211712615
+  login: 1718211628781
+money: '3501.39000000000000006'
+last-account-name: Draco_Pho
+lastlocation:
+  world: 88ebfc47-ed7d-4fc8-bd35-d17f23832ab1
+  world-name: world_build
+  x: -236.15103151144584
+  y: -60.0
+  z: 259.0852906596782
+  yaw: 25.0596923828125
+  pitch: 31.64617347717285
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 23.343813844671118
+  y: 66.0
+  z: 16.337964939659358
+  yaw: -82.54168701171875
+  pitch: 18.287256240844727

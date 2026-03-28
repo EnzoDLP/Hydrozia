@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.59.60.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713691967472
+  login: 1713691595600
+money: '1.32000000000000006'
+last-account-name: xilia_off
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 11.349373205557944
+  y: 66.5
+  z: 1.2209069969929207
+  yaw: -90.04226684570312
+  pitch: -3.9126808643341064
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2016.002664575273
+  y: 65.0
+  z: -1524.3222356414078
+  yaw: -99.94226837158203
+  pitch: 4.037328720092773

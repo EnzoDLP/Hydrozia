@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.16.14.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717837315264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717837340482
+  login: 1717837211129
+money: '0'
+last-account-name: Mimat_Craft
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.5893715469259369
+  y: 69.0
+  z: -11.257273292033972
+  yaw: -10.651474952697754
+  pitch: -12.15037727355957
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 1688.5
+  y: 104.0000001
+  z: 971.5
+  yaw: -120.75149536132812
+  pitch: 15.599628448486328

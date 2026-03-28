@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.227.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719062858159
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719063570069
+  login: 1719061580309
+  kits:
+    base: 1719061749328
+money: '1037.95450000000000023'
+last-account-name: mcadms
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1867.501579169551
+  y: 66.0
+  z: 894.200723443156
+  yaw: 166.783935546875
+  pitch: 12.749857902526855
+logoutlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 163.9173900356419
+  y: 66.22149363870948
+  z: -36.8401285535814
+  yaw: -120.29901123046875
+  pitch: 10.950304985046387

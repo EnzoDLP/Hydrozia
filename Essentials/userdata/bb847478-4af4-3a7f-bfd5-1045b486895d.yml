@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.151.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713198974981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713199468550
+  login: 1713198628481
+  kits:
+    base: 1713197872035
+money: '35.77000000000000055'
+last-account-name: Michealangelo
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -8.700420341110272
+  y: 67.0
+  z: 0.9835822712840869
+  yaw: -1.039794921875
+  pitch: 18.599422454833984
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -1417.8754534452414
+  y: 62.0
+  z: 1049.2660899426974
+  yaw: 159.52947998046875
+  pitch: 51.89882278442383

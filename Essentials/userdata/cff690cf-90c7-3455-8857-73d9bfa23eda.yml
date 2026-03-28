@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.122.121.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721578509192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721581433999
+  login: 1721577762492
+money: '1602.56999999999999998'
+last-account-name: Zace_139
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -12.985190802702066
+  y: 65.0
+  z: -3.704474968110318
+  yaw: -69.9560546875
+  pitch: 8.779041290283203
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 10.862500011920929
+  y: 66.0
+  z: -22.34329007372834
+  yaw: 76.6767578125
+  pitch: 6.602370738983154

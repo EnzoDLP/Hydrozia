@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.161.218.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713036441881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713036480863
+  login: 1713035600881
+money: '2.89000000000000014'
+last-account-name: DjinnTV642
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -3.051060510377769
+  y: 61.413565569632595
+  z: -104.26521981946698
+  yaw: -56.101585388183594
+  pitch: 1.7995864152908325
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -40.81475370043713
+  y: 67.0
+  z: 46.00943800067576
+  yaw: -17.999713897705078
+  pitch: 34.79987716674805

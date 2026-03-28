@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.18.229.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717177225083
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717177493206
+  login: 1717177204733
+  kits:
+    base: 1713722987624
+money: '0.46780000000022078'
+last-account-name: sacharge3
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 6.681412593473643
+  y: 65.0
+  z: 11.729605763514027
+  yaw: -174.642822265625
+  pitch: 5.837355136871338
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -3508.5000224689034
+  y: -59.0
+  z: -3820.957185907616
+  yaw: 8.778595924377441
+  pitch: -1.650063157081604
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1346.6102904271875
+    y: -51.0
+    z: 4584.896905679167
+    yaw: 66.18359375
+    pitch: -34.05002975463867

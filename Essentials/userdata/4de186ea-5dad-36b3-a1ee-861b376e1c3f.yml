@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.173.167.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713461166967
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721327413686
+  login: 1721327272828
+  kits:
+    base: 1713435543575
+money: '110.58015000000004135'
+last-account-name: ASF_YTB
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 1082.300000011921
+  y: 36.0
+  z: -1424.1575596997545
+  yaw: -64.2020263671875
+  pitch: 56.099979400634766
+homes:
+  home:
+    world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+    world-name: world_resources
+    x: 1076.309142530917
+    y: 51.0
+    z: -1415.0641880302605
+    yaw: 121.8017578125
+    pitch: 50.54993438720703
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171

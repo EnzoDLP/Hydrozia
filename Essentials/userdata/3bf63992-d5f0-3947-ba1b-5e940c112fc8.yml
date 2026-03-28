@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.182.18.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713971564860
+  login: 1713971388444
+  kits:
+    base: 1713087330869
+money: '220.83050000000000190'
+last-account-name: MattoexYT
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -5.598429075147695
+  y: 69.0
+  z: -6.709673879567998
+  yaw: -119.33966064453125
+  pitch: 9.809385299682617
+homes:
+  home:
+    world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+    world-name: world_resources
+    x: 1360.854140919929
+    y: 38.0
+    z: 721.2268940298043
+    yaw: -93.10693359375
+    pitch: 9.087689399719238
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 1248.5730681014725
+  y: 69.0
+  z: 754.4141577517591
+  yaw: 171.1700439453125
+  pitch: 57.159305572509766

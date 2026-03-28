@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.185.166.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713877762765
+  login: 1713877447950
+  kits:
+    base: 1713877540456
+money: '12.43999999999999971'
+last-account-name: FlamyMylifla
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 0.5076292442455935
+  y: 69.0
+  z: -5.500290030146929
+  yaw: -179.85104370117188
+  pitch: -1.4998300075531006
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -102.4984829284293
+  y: 61.36691208946805
+  z: -351.5286706080172
+  yaw: 77.5496826171875
+  pitch: -7.49965238571167

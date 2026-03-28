@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 102.136.205.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714254571230
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714891670150
+  login: 1714891490147
+  kits:
+    base: 1714254643171
+money: '0'
+last-account-name: EMMA
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -176.44198608398438
+  pitch: 73.78732299804688
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.3387882738229869
+  y: 67.0
+  z: 1.618539973113096
+  yaw: -85.54205322265625
+  pitch: 15.899996757507324

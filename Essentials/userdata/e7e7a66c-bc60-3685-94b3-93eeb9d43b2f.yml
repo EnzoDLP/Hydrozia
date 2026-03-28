@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.166.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722012004501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722012090713
+  login: 1722011832251
+money: '0'
+last-account-name: DiabloRealShow
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -16.380502912406524
+  y: 65.0
+  z: 0.6572566432883684
+  yaw: 65.95808410644531
+  pitch: 11.537322998046875
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 17.227985961224526
+  y: 66.0
+  z: 7.453130920351538
+  yaw: 80.80828094482422
+  pitch: 31.187374114990234

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.162.1.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719679944016
+  login: 1719679832065
+money: '0'
+last-account-name: Sabba
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -23.60514306166574
+  y: 64.0
+  z: -114.48219894076537
+  yaw: -168.63987731933594
+  pitch: -0.16240699589252472
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1011.6358251746288
+  y: 120.0
+  z: 948.6803149471957
+  yaw: -154.0910186767578
+  pitch: -11.562419891357422

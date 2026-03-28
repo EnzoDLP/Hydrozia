@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.152.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715615697209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715616269274
+  login: 1715615511909
+  kits:
+    base: 1715616231096
+money: '0'
+last-account-name: nashaci
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.1126218176121943
+  y: 65.0
+  z: -24.055088326128658
+  yaw: -87.16787719726562
+  pitch: 27.663795471191406
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -20.181738568462418
+  y: 68.0
+  z: 50.01261529222655
+  yaw: 33.71136474609375
+  pitch: 45.82299041748047

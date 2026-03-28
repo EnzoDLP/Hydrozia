@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.214.250.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716915610099
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716915760014
+  login: 1716909611849
+  kits:
+    base: 1716915603422
+money: '970.103825000000001030'
+last-account-name: LeMrMichto
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -161.98240661621094
+  pitch: 1.587518572807312
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4901.904044174351
+    y: 104.0
+    z: 1929.300000011921
+    yaw: -8.84765625
+    pitch: -9.303836822509766
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4894.699999988079
+  y: 85.0
+  z: 1921.388135925031
+  yaw: -84.900390625
+  pitch: -5.189200401306152

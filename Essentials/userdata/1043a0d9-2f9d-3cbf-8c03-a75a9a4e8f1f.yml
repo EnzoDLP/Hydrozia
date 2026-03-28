@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.196.179.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713473001617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713473100857
+  login: 1713472441017
+  kits:
+    base: 1713472668473
+money: '0'
+last-account-name: TheMitzaGame
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.34104856630503666
+  y: 67.0
+  z: -56.38025720326054
+  yaw: -179.24754333496094
+  pitch: 18.492551803588867
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 51.30000001192093
+  y: -62.0
+  z: -256.51249998807907
+  yaw: -54.018028259277344
+  pitch: 49.59048080444336

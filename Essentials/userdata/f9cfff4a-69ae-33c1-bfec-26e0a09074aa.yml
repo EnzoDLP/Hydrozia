@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.62.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713794585013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713796192986
+  login: 1713794515263
+  kits:
+    base: 1713795878818
+money: '28.046999999999999465'
+last-account-name: Awakew
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.4680398230346763
+  y: 65.0
+  z: -34.348172812856255
+  yaw: -161.14154052734375
+  pitch: 7.199991703033447
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 16.347710219360945
+  y: 63.0
+  z: -150.04854395215895
+  yaw: -179.1405792236328
+  pitch: 36.14992904663086

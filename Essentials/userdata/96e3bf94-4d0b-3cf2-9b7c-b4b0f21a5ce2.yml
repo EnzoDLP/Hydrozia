@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.203.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718217051132
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718217994312
+  login: 1718208467131
+  kits:
+    base: 1718180940915
+money: '0'
+last-account-name: Keuhr
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 7.241381295678473
+  y: 66.0
+  z: 18.667306456752094
+  yaw: -9.30810546875
+  pitch: 12.136621475219727
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3400.231807577545
+  y: -59.0
+  z: 4153.226696469479
+  yaw: -143.13497924804688
+  pitch: 8.677694320678711

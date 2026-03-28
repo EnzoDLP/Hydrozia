@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.159.154.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718184263131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718184360006
+  login: 1718183956681
+money: '0'
+last-account-name: Mapoum
+lastlocation:
+  world: 3fc97b6a-ed7a-48f2-b37d-39c84ba50d3d
+  world-name: world_resources
+  x: 0.8173424172421357
+  y: 69.0
+  z: -3.155294386269858
+  yaw: -142.80313110351562
+  pitch: -1.6501535177230835
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2.3844428722117734
+  y: 65.0
+  z: -29.23317322613437
+  yaw: 36.407684326171875
+  pitch: 7.187331676483154

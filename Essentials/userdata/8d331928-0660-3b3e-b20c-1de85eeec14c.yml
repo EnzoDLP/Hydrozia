@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.228.72.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713711504300
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713712343469
+  login: 1713711148050
+  kits:
+    base: 1713711355206
+money: '0.08'
+last-account-name: tootallss
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -227.3309321724175
+  y: 66.0
+  z: -447.87452426275087
+  yaw: -111.04255676269531
+  pitch: 13.499889373779297
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 56.788851081680804
+  y: 90.1537657013958
+  z: -58.118212340669494
+  yaw: 91.44418334960938
+  pitch: -3.2995405197143555

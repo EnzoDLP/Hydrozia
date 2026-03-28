@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.131.98.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716746560824
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716747378412
+  login: 1716746309823
+  kits:
+    base: 1716746446278
+money: '69.880000000000001225'
+last-account-name: TiTanVOnYt
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -1.0551626233396016
+  y: 69.0
+  z: -2.103389138237232
+  yaw: 124.6484375
+  pitch: 9.899621963500977
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 550.3735621603237
+  y: 4.12378564629469
+  z: -2115.032092825513
+  yaw: -14.1016845703125
+  pitch: 63.450008392333984

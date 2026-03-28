@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.235.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716381514802
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720720785635
+  login: 1720720744982
+  kits:
+    base: 1716375132856
+money: '2937.052075000000655153'
+last-account-name: CactusSteak6769
+lastlocation:
+  world: 1969a7dc-662d-423e-86db-145ce51cb06b
+  world-name: world_nether
+  x: 12.699999988079071
+  y: 42.0
+  z: 140.0011042206591
+  yaw: -44.59507369995117
+  pitch: 14.296048164367676
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1061.4476052684129
+    y: 67.0
+    z: -1698.6744676963335
+    yaw: -8.032806396484375
+    pitch: 39.12425994873047

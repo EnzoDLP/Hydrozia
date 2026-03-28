@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.182.200.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714845593488
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714845693455
+  login: 1714845299850
+money: '0'
+last-account-name: Kosuroko
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 12.472222525965071
+  y: 63.0
+  z: 136.00625914477294
+  yaw: 107.9581298828125
+  pitch: 3.887291193008423
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.169556010611676
+  y: 68.0625
+  z: -2.2853029308428146
+  yaw: 122.80790710449219
+  pitch: 7.6373114585876465

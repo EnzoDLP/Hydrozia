@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.226.203.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714241993530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714242413545
+  login: 1714241343980
+money: '8.570000000000000245'
+last-account-name: Nonino23
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.7437515845421153
+  y: 68.0
+  z: -1.8010516341298932
+  yaw: 7.799591064453125
+  pitch: 19.950231552124023
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1719.4591984280114
+  y: 62.0
+  z: -359.30000001192093
+  yaw: 164.452392578125
+  pitch: -1.8000056743621826

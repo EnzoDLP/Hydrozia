@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.182.197.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713191531181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713191627058
+  login: 1713191357681
+  kits:
+    base: 1713191506987
+money: '0'
+last-account-name: Saucissequivol13
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -0.652261981115239
+  y: 69.0
+  z: -4.416056757476675
+  yaw: -127.1937255859375
+  pitch: 6.149643421173096
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -564.6999999880791
+  y: 75.0
+  z: -1704.699999988079
+  yaw: 164.11509704589844
+  pitch: 27.29932403564453

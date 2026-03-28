@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.2.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716326141160
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716326164633
+  login: 1716325894111
+  kits:
+    base: 1716326146735
+money: '0'
+last-account-name: wisciwisti
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 91.61182495868431
+  y: 65.0
+  z: 66.01203415836079
+  yaw: 5.95770263671875
+  pitch: 5.681408882141113
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.48108996696871803
+  y: 67.0
+  z: 0.9261984966263193
+  yaw: -176.9436492919922
+  pitch: 1.327057123184204

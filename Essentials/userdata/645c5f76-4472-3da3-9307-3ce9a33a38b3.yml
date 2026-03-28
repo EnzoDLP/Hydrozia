@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.226.190.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714913728397
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714914198171
+  login: 1714911144898
+money: '14.114500000000000265'
+last-account-name: nathan002373
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -1.5344363119384925
+  y: 48.0
+  z: -198.77984699329596
+  yaw: 134.8499755859375
+  pitch: 47.84992980957031
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -7.350982947701306
+  y: 66.0
+  z: -12.910433261668892
+  yaw: 125.05818176269531
+  pitch: 28.63731575012207

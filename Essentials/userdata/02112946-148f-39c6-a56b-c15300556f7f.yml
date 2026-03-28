@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.40.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715979013338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715979260509
+  login: 1715976679087
+  kits:
+    base: 1715978072181
+money: '0'
+last-account-name: YJDbee_rejoui
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -159.84579467773438
+  pitch: 16.349708557128906
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1546.352870746066
+  y: 95.02442408821369
+  z: 620.7760056300463
+  yaw: 70.68707275390625
+  pitch: 21.28641700744629

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.124.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713611997038
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713619392224
+  login: 1713618114587
+  kits:
+    base: 1713619254060
+money: '3.82000000000000023'
+last-account-name: freeze_tec9
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 55.2800860959304
+  y: 67.0
+  z: 8.05830185440213
+  yaw: 33.77630615234375
+  pitch: 40.553558349609375
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 13.3927851232496
+  y: 66.0
+  z: -15.278322500606178
+  yaw: 39.1937255859375
+  pitch: 30.498615264892578

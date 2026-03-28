@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.143.220.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719096652017
+  login: 1719095856559
+money: '0'
+last-account-name: Fan2Maalcha
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -499.5
+  y: 101.0
+  z: -499.5
+  yaw: -90.00029754638672
+  pitch: -0.012779861688613892
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -494.37933432639574
+  y: 102.0
+  z: -497.25310105212435
+  yaw: 26.026315689086914
+  pitch: 33.96161651611328

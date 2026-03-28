@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.67.58.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715418845741
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715419092750
+  login: 1715417226642
+money: '49.30749999999999942'
+last-account-name: clauteur
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4.042115527633629
+  y: 65.5
+  z: -39.489574991383726
+  yaw: 164.20858764648438
+  pitch: 2.087283134460449
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.40392686643967807
+  y: 63.0
+  z: -87.2860237055531
+  yaw: 1.9489465951919556
+  pitch: 19.349611282348633

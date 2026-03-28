@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.20.74.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715604812261
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715605206471
+  login: 1715604051259
+money: '0.16'
+last-account-name: NEYOX_29910
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.477343256243577
+  y: 62.0
+  z: -137.42273717282043
+  yaw: 18.700439453125
+  pitch: -7.19984769821167
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.5369512424645921
+  y: 67.0
+  z: 1.2854617652837255
+  yaw: 164.8046417236328
+  pitch: 30.599838256835938

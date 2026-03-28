@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.189.210.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716585525478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716585605901
+  login: 1716585371777
+  kits:
+    base: 1716585556650
+money: '0'
+last-account-name: xFahran
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -0.6056586558459561
+  y: 65.0
+  z: -77.2477292740006
+  yaw: 176.2486114501953
+  pitch: 12.749605178833008
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -2098.1000344736594
+  y: 71.0
+  z: 2214.788542138486
+  yaw: -72.60160064697266
+  pitch: 28.049602508544922

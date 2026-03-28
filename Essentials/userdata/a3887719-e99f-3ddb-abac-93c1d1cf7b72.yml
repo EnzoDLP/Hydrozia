@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.149.95.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716616705452
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716616845212
+  login: 1716615999569
+money: '24.66299999999999984'
+last-account-name: 669NeLix
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 0.8214943887285528
+  y: 69.0
+  z: 3.116582276251916
+  yaw: 3.59865140914917
+  pitch: 4.799624919891357
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -29.188544220018382
+  y: 66.0
+  z: -21.969320044351413
+  yaw: 83.95787811279297
+  pitch: -6.912674903869629

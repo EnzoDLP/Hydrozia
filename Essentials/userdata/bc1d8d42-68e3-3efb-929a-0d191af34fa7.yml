@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.252.175.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720618344386
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721211904378
+  login: 1721211849318
+money: '34.365500000000000695'
+last-account-name: Legentillejoueur
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.0073710666685058
+  y: 67.5
+  z: -0.775790121420963
+  yaw: 172.0074462890625
+  pitch: 27.887319564819336
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.00000019999999
+  z: 0.5
+  yaw: 171.25802612304688
+  pitch: 6.7373199462890625

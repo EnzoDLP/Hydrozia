@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.184.31.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720548875268
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720608438496
+  login: 1720608367336
+money: '0.24'
+last-account-name: Lois13245
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 2.3607522265780325
+  y: 69.0
+  z: -3.0545270063072176
+  yaw: -105.00160217285156
+  pitch: 3.449625253677368
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: -602.7109572211356
+  y: 75.0
+  z: -1662.7718573271404
+  yaw: 154.79811096191406
+  pitch: 49.3499755859375

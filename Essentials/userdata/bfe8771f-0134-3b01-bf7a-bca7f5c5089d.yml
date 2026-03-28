@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.177.209.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716741780074
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716742226298
+  login: 1716741464223
+  kits:
+    base: 1716662045091
+    vip: 1716664172818
+money: '48644.840999999996640735'
+last-account-name: Shideru57
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -330.0080763460444
+    y: 23.0
+    z: -315.72359599244965
+    yaw: 65.5123291015625
+    pitch: 24.45000648498535
+  enchante:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 39.44129964145651
+    y: 55.0
+    z: 400.69999998807907
+    yaw: -164.5911865234375
+    pitch: 16.34988784790039
+lastlocation:
+  world: 1969a7dc-662d-423e-86db-145ce51cb06b
+  world-name: world_nether
+  x: 1.3396347114650031
+  y: 43.0
+  z: -3.568309352567673
+  yaw: -178.04995727539062
+  pitch: 15.000057220458984
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.4326420679983552
+  y: 68.0
+  z: -3.359909657596527
+  yaw: -158.29196166992188
+  pitch: 5.987319469451904

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.115.82.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719672387529
+  login: 1719671686607
+money: '10.29000000000000050'
+last-account-name: Leepouet
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -293.4903906309717
+  y: 60.78895850006722
+  z: -154.1673827676072
+  yaw: 77.92105102539062
+  pitch: -3.998185634613037

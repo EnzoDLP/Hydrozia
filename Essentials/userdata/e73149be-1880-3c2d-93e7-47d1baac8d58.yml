@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.68.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714497856044
+  login: 1714495908173
+money: '26.72200000000000029'
+last-account-name: k4zuho
+lastlocation:
+  world: e1383e3f-914c-4491-846d-b3baf552fc8a
+  world-name: world_the_end
+  x: 318.69999998807907
+  y: 66.3291009026047
+  z: -24.476112158608714
+  yaw: -90.13442993164062
+  pitch: 16.255268096923828
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: 1.93115234375
+  pitch: 16.80160903930664

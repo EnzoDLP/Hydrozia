@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.123.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716981784217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720717202323
+  login: 1720717122271
+money: '0'
+last-account-name: SoryPTD_R
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -30.367145755630446
+  y: 66.0
+  z: -3.130208998532027
+  yaw: 98.60610961914062
+  pitch: 10.726747512817383
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.49990228542640575
+  y: 67.0
+  z: 0.16730644504834163
+  yaw: -178.88946533203125
+  pitch: -5.356188774108887

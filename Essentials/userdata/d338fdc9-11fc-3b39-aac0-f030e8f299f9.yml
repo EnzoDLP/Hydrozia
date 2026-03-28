@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.9.207.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713808250233
+  login: 1713802477413
+money: '5.70000000000000026'
+last-account-name: Eazmo_Supermot
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.004002534162735516
+  y: 65.0
+  z: -14.255000039562438
+  yaw: 34.039215087890625
+  pitch: 7.417450904846191
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 11.249455971436301
+  y: 65.5
+  z: -10.514378414966309
+  yaw: 5.406730651855469
+  pitch: 10.966073989868164

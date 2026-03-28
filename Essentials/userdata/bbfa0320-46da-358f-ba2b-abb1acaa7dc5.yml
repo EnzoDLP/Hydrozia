@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.124.56.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713473104695
+  login: 1713472432617
+  kits:
+    base: 1713472659224
+money: '0.12'
+last-account-name: Chronologie
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.07364320471660354
+  y: 65.0
+  z: -14.91864778879543
+  yaw: -176.71420288085938
+  pitch: 9.304986953735352

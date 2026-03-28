@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.193.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719095766459
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720294818413
+  login: 1720294221256
+money: '7.20000000000000103'
+last-account-name: sayanlevrai
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -503.27759337889825
+  y: 101.0
+  z: -498.6949193114308
+  yaw: 68.09882354736328
+  pitch: 29.386993408203125
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 22.69999998807907
+  y: 64.0
+  z: -22.634185831959655
+  yaw: 155.8080596923828
+  pitch: 56.3873176574707

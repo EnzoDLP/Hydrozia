@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.194.54.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713117968495
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714668765350
+  login: 1714668753391
+  kits:
+    base: 1713118246198
+money: '398.781999999999994574'
+last-account-name: Sunt_Nebuni_ytb
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.49992483494812767
+  y: 67.0
+  z: 0.24644467823981736
+  yaw: 179.95802307128906
+  pitch: -0.012681335210800171
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 110.01562070841788
+  y: 70.0
+  z: 321.06763202319905
+  yaw: -33.000244140625
+  pitch: 18.00020980834961
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -2221.113407359925
+    y: 66.00000029999998
+    z: -1305.300000011921
+    yaw: 65.82744598388672
+    pitch: 23.592485427856445

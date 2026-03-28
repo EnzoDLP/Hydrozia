@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.162.141.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714765997246
+  login: 1714764514619
+money: '103.50200000000000135'
+last-account-name: latorche59
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.3215122761231997
+  y: 68.0
+  z: -2.295165605791573
+  yaw: 179.29075622558594
+  pitch: -0.14613918960094452
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.8374598638205895
+  y: 65.0
+  z: -34.101704009795945
+  yaw: -161.22509765625
+  pitch: 49.900482177734375

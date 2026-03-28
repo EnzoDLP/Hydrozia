@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.36.11.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714411471232
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714411549409
+  login: 1714410338881
+  kits:
+    base: 1714411012141
+money: '1.00000000000000004'
+last-account-name: dode97500
+lastlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 250.29160482654095
+  y: 67.0
+  z: -88.50634978685352
+  yaw: -42.294593811035156
+  pitch: 22.649633407592773
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: -210.75987380629888
+  y: 61.71264428447867
+  z: -14.281410346841549
+  yaw: 106.226318359375
+  pitch: 7.049676418304443

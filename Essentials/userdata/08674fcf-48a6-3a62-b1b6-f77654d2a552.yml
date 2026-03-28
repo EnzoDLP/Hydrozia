@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.147.65.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714585186718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714585324141
+  login: 1714584948518
+money: '0'
+last-account-name: jackichang
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4.904910250636233
+  y: 65.5
+  z: -27.710003272556357
+  yaw: -3.638570785522461
+  pitch: 12.137349128723145
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 400.6863177711911
+  y: 64.0
+  z: 50.53689414069615
+  yaw: -11.099861145019531
+  pitch: 23.099563598632812

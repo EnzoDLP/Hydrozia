@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.104.54.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724770496816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724841374796
+  login: 1724840567237
+  kits:
+    base: 1722682176011
+money: '1877.549533333333838259'
+last-account-name: Pierro4910
+lastlocation:
+  world: d31a6bf1-c0a4-41e1-a1b6-d157e66c0880
+  world-name: world_nether
+  x: -2071.4420364419325
+  y: 23.0
+  z: 1338.2440731275474
+  yaw: 141.89605712890625
+  pitch: 59.64902114868164
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.5
+  y: 67.0000001
+  z: 0.5
+  yaw: -149.90975952148438
+  pitch: 8.367542266845703
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1166.5107874480705
+    y: -1.0
+    z: 2211.275098634071
+    yaw: -84.450927734375
+    pitch: 54.47507095336914

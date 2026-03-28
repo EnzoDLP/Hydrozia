@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.152.42.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716584747977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716585128996
+  login: 1716584978926
+money: '7.186000000000000400'
+last-account-name: Taboux
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -0.3734535686785633
+  y: 68.0
+  z: -2.0118084849470907
+  yaw: -94.39205932617188
+  pitch: 11.537321090698242
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.2822352586072236
+  y: 67.0
+  z: -0.11030707719919908
+  yaw: 160.0081024169922
+  pitch: 22.48732566833496

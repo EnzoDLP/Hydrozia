@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.121.65.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718031208811
+  login: 1718030971048
+money: '0'
+last-account-name: LeRoiDuMonde_YT
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.984612054631871
+  y: 65.0
+  z: 21.481610438740912
+  yaw: 4.758575439453125
+  pitch: 8.5499906539917

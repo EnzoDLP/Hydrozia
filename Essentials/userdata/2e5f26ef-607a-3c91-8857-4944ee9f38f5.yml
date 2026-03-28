@@ -1,0 +1,122 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: false
+ip-address: 77.205.21.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724968576370
+  lastheal: 0
+  mute: 1724968809186
+  jail: 0
+  onlinejail: 0
+  logout: 1724968808747
+  login: 1724959700114
+  kits:
+    base: 1724945060137
+    vip: 1715448573683
+money: '1095690.870524999131084218'
+last-account-name: Alykell
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 4546.6883677528995
+  y: -6.381470849211992
+  z: -1810.7047753894242
+  yaw: 79.01791381835938
+  pitch: 83.4455795288086
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -45.940314131541115
+  y: 65.0
+  z: 40.66413983021544
+  yaw: 139.1658477783203
+  pitch: 55.35090637207031
+homes:
+  abeille:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4266.3817055858735
+    y: 270.0
+    z: -3895.633118838724
+    yaw: 89.93980407714844
+    pitch: 13.439090728759766
+  bp_def:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -4352.010215388931
+    y: -53.0
+    z: 3708.9051212090417
+    yaw: -1.1377753019332886
+    pitch: 32.720497131347656
+  sp:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 2125.9811643383964
+    y: -59.0
+    z: -4204.300000011921
+    yaw: -175.56317138671875
+    pitch: 15.149145126342773
+  fin:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 645.0678141562397
+    y: 126.0
+    z: 1150.0041907950038
+    yaw: -89.33004760742188
+    pitch: 14.624510765075684
+  bc_wiper_llill:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4948.564142433589
+    y: -54.0
+    z: 2297.9777531043756
+    yaw: -90.61572265625
+    pitch: 15.600715637207031
+  carte:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4534.880868313723
+    y: -13.0
+    z: -1813.3952332673573
+    yaw: -7.7958984375
+    pitch: 5.9782304763793945
+  build:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 4514.335168645664
+    y: 62.0
+    z: -1883.8743337047383
+    yaw: -171.33253479003906
+    pitch: 9.292034149169922
+  fin_jump:
+    world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+    world-name: world_parkour
+    x: 0.1514985649267279
+    y: 308.0
+    z: 100.42045202849494
+    yaw: -170.69400024414062
+    pitch: 18.687423706054688
+  map:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 659.1347565725803
+    y: 103.0
+    z: 1007.7508746067189
+    yaw: -0.216094970703125
+    pitch: 9.121569633483887
+  stuff:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1254.300000011921
+    y: 46.0
+    z: -898.3000000119209
+    yaw: 167.16448974609375
+    pitch: 16.85576057434082

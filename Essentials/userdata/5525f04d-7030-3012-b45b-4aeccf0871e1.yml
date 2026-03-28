@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.66.44.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716301249710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716302428739
+  login: 1716299717574
+  kits:
+    base: 1716302116989
+money: '6.46000000000000025'
+last-account-name: king_davs
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 5.053961797794455
+  y: 66.0
+  z: -24.195150436211428
+  yaw: 78.4075927734375
+  pitch: 90.0
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 604.2669590903533
+  y: 93.0
+  z: -2356.457513402215
+  yaw: -78.79242706298828
+  pitch: 73.50000762939453

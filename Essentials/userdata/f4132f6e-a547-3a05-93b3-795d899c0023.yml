@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.149.37.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713791788685
+  login: 1713791518074
+money: '1.38000000000000005'
+last-account-name: b0ule2noir
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -2.8155053421102747
+  y: 67.0
+  z: -57.74867596169807
+  yaw: 98.50902557373047
+  pitch: 15.887277603149414

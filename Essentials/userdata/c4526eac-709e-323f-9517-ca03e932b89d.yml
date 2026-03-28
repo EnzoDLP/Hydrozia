@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.167.246.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713533836767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713534099028
+  login: 1713528321167
+  kits:
+    base: 1713533192818
+money: '107.290000000000001395'
+last-account-name: jetefaisfly
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 31.323553472437542
+  y: 66.0
+  z: -17.517905592678158
+  yaw: -118.33619689941406
+  pitch: 14.162426948547363
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 732.0340462345976
+  y: 103.0
+  z: 2126.0679800217945
+  yaw: -125.6874008178711
+  pitch: 13.78332805633545
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -1741.949730550035
+    y: 67.0
+    z: 1781.4698199940135
+    yaw: -25.5655517578125
+    pitch: 8.157275199890137

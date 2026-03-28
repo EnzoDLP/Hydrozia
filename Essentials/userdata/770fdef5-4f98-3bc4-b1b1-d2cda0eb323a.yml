@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.124.37.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722107156472
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724959787231
+  login: 1724959642820
+  kits:
+    base: 1713216586713
+money: '49214.740350000002901499'
+last-account-name: Ixsou_mod
+lastlocation:
+  world: f9e08055-0ab8-451d-8914-0e4466b2bd06
+  world-name: world_arene_4
+  x: 101.96683998062761
+  y: 71.0
+  z: -74.81318509186727
+  yaw: -19.6207275390625
+  pitch: 2.456051826477051
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -19.426937964977633
+  y: 76.0
+  z: 6.26329628868105
+  yaw: -126.94209289550781
+  pitch: 34.30408477783203
+homes:
+  home:
+    world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+    world-name: world_parkour
+    x: 0.6520387527011494
+    y: 308.0
+    z: 100.01245458393656
+    yaw: -123.50970458984375
+    pitch: 37.174137115478516

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.104.246.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721057531162
+  login: 1721057310007
+money: '0'
+last-account-name: henry1122
+lastlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: 0.8478746592992292
+  y: -59.59150360904736
+  z: -32.39237982295691
+  yaw: -175.74581909179688
+  pitch: 4.836528778076172
+logoutlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 6.134544780148893
+  y: 69.0
+  z: -13.172713578313205
+  yaw: 159.0831756591797
+  pitch: 10.25275993347168

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.182.205.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716922689699
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716922744716
+  login: 1716921982499
+money: '9.28500000000000044'
+last-account-name: ngolocomte
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.49849759659443077
+  y: 65.0
+  z: -14.879383453236473
+  yaw: 179.36654663085938
+  pitch: 17.615690231323242
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -74.22150378425344
+  y: 63.0
+  z: 2.6070159148636867
+  yaw: 1.3173828125
+  pitch: 29.618452072143555

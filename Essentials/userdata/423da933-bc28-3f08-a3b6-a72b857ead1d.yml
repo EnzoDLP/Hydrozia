@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.25.137.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717357195955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717357540631
+  login: 1717356557605
+money: '422.800500000000003277'
+last-account-name: soleso93
+logoutlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: -1638.2576602576116
+  y: 63.0
+  z: 1367.9725716905589
+  yaw: -140.09962463378906
+  pitch: 50.999507904052734
+lastlocation:
+  world: eeffacbc-4b8d-420a-b82a-e29ba5abb500
+  world-name: world_resources
+  x: 1.0781552458072698
+  y: 69.0
+  z: -0.6259509312082068
+  yaw: -175.20114135742188
+  pitch: 4.349563121795654

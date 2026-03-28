@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.192.162.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718632645693
+  login: 1718632547981
+  kits:
+    base: 1718632608935
+money: '0'
+last-account-name: Exogene
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 3.9113684158762654
+  y: 68.05489334703208
+  z: -0.512499988079071
+  yaw: 93.37545776367188
+  pitch: 5.6444573402404785

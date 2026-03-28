@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.165.75.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713097900011
+  login: 1713097597181
+  kits:
+    base: 1713097669720
+money: '8.88000000000000013'
+last-account-name: joki74
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -8.956893039198494
+  y: 66.0
+  z: -16.44348154251756
+  yaw: -27.15758514404297
+  pitch: 18.343122482299805
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1477.300000011921
+  y: 59.41152963318381
+  z: -1510.286918736574
+  yaw: -1.7203369140625
+  pitch: 18.93035888671875

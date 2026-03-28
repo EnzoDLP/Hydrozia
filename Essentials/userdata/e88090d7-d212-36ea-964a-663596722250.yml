@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.87.242.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715447722591
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715458558456
+  login: 1715456668791
+money: '59.639000000000000575'
+last-account-name: KarnaAKA
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 976.3000000119209
+  y: 72.0
+  z: -2478.568331041259
+  yaw: 89.785888671875
+  pitch: 40.34977722167969
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1943.5545888647398
+  y: 11.0
+  z: 2306.300000011921
+  yaw: -177.9761962890625
+  pitch: 21.149728775024414

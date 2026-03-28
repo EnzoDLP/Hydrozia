@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.18.20.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713889767800
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713890253172
+  login: 1713888492950
+  kits:
+    base: 1713888677403
+money: '50.19400000000000155'
+last-account-name: Djezzy_
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 842.7880658519513
+  y: 39.0
+  z: -1304.2305348292264
+  yaw: 142.69256591796875
+  pitch: 27.294116973876953
+logoutlocation:
+  world: c92c2e40-b6d7-43ae-9038-7200138d58fa
+  world-name: world_resources
+  x: 186.23141588115908
+  y: 50.0
+  z: -1416.9220373391058
+  yaw: 117.09451293945312
+  pitch: -24.799884796142578

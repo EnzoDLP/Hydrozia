@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.95.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721482110989
+  login: 1721482072927
+money: '0.06'
+last-account-name: GazouMc
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 24.932400891153456
+  y: 65.0
+  z: 1.660526663841999
+  yaw: -83.74170684814453
+  pitch: -14.746939659118652
+lastlocation:
+  world: f8e28cd2-349b-4e9a-875e-e6de4dcd2fe6
+  world-name: world_parkour
+  x: 0.9221196049207313
+  y: -60.0
+  z: -32.15408664170711
+  yaw: -176.03958129882812
+  pitch: 4.699643135070801

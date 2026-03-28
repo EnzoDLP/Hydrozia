@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.249.255.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724395084215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724395215571
+  login: 1724395210615
+  kits:
+    base: 1724393112742
+    vip: 1724393036227
+money: '3347.272799999991203872'
+last-account-name: FreakCircusTV
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -160.08649967782895
+  y: -59.0
+  z: -4252.699999988079
+  yaw: 39.018131256103516
+  pitch: 16.049270629882812
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: -154.30000001192093
+    y: -59.0
+    z: -4252.508473621639
+    yaw: 90.3204345703125
+    pitch: 13.199649810791016
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 21.355518887107888
+  y: 66.0
+  z: -10.300000011920929
+  yaw: 43.914791107177734
+  pitch: 12.287372589111328

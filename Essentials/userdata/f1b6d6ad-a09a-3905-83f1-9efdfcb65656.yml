@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.184.128.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714336384075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714337173444
+  login: 1714334254675
+  kits:
+    base: 1714335563987
+money: '0'
+last-account-name: daasko
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 58.5
+  y: 90.0000001
+  z: -58.5
+  yaw: -89.85021209716797
+  pitch: 4.650222301483154
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 60.11683997300017
+  y: 90.0
+  z: -60.17371359771802
+  yaw: -13.500198364257812
+  pitch: -76.79995727539062

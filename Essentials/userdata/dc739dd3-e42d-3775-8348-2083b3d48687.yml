@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 153.92.106.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716383955402
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716383969271
+  login: 1716383610501
+money: '0'
+last-account-name: Sashplus
+lastlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: 55.934446619269515
+  y: 90.7531999805212
+  z: -57.5639507745172
+  yaw: 87.96023559570312
+  pitch: 7.19945764541626
+logoutlocation:
+  world: fdbfa46d-2cf2-465a-b5a0-8ab54ce5fc9b
+  world-name: world_arene_8
+  x: -467.89995842762613
+  y: 97.5
+  z: -480.95184916537295
+  yaw: -155.29177856445312
+  pitch: 13.114126205444336

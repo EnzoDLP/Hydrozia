@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.241.241.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718824705200
+  login: 1718824679982
+money: '0'
+last-account-name: M0NKEYgogeta
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.4999116811397857
+  y: 67.0
+  z: 1.0282622908973151
+  yaw: 178.1580810546875
+  pitch: -2.4126815795898438

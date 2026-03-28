@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.163.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714309250961
+  login: 1714309126075
+money: '0.12'
+last-account-name: Kams9513
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -21.518144134483244
+  y: 65.0
+  z: 0.9337026738771038
+  yaw: 78.85848236083984
+  pitch: 3.2999801635742188
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 2442.1893013887175
+  y: 125.1181568706581
+  z: -2139.377612259265
+  yaw: -79.8408432006836
+  pitch: 42.000022888183594

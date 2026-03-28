@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.66.152.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720863603443
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720871155201
+  login: 1720871092993
+  kits:
+    base: 1720863303586
+money: '0'
+last-account-name: B777D
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 7.415028967770516
+  y: 55.0625
+  z: -147.07976837119955
+  yaw: 105.708740234375
+  pitch: 12.437222480773926
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -62.37064911973752
+  y: 67.0
+  z: -41.55379846399306
+  yaw: -4.24176025390625
+  pitch: 28.337358474731445

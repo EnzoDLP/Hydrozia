@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.10.166.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724788669616
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724788699474
+  login: 1724788612216
+money: '0'
+last-account-name: ATH_Dusk
+lastlocation:
+  world: de5f0f85-e99d-43d1-8878-6124cbcd4c90
+  world-name: world_resources
+  x: 0.0707623792849595
+  y: 69.0
+  z: 2.6703343669482047
+  yaw: 7.525472640991211
+  pitch: 13.615745544433594
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1.0803798884377092
+  y: 67.0
+  z: -0.33958763089123534
+  yaw: -5.904571533203125
+  pitch: 6.662829399108887

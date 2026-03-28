@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.44.121.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718461967412
+  login: 1718461876500
+money: '18.39000000000000070'
+last-account-name: DEADPOOL53170
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -1586.9754268130127
+  y: 64.0
+  z: 2211.0381538950714
+  yaw: 125.95765686035156
+  pitch: 12.287384033203125
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: -149.964659863411
+  y: 63.0
+  z: 19.7284916278676
+  yaw: 106.45764923095703
+  pitch: 19.787466049194336

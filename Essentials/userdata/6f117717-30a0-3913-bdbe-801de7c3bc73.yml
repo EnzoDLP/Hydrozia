@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.248.176.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715982333387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716767295578
+  login: 1716767251023
+  kits:
+    base: 1715289139206
+money: '47926.052374999998640693'
+last-account-name: Bloc43
+logoutlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 0.49996993398037115
+  y: 67.0
+  z: 0.37156825776056157
+  yaw: 173.2077178955078
+  pitch: 6.587316513061523
+lastlocation:
+  world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+  world-name: world
+  x: 1205.4857466836013
+  y: 63.0
+  z: 1895.6271659317474
+  yaw: -0.3421630859375
+  pitch: 10.200010299682617
+homes:
+  home:
+    world: 2b3178f3-b8a9-4d93-a828-f97a3251293c
+    world-name: world
+    x: 1120.602272834662
+    y: 119.0
+    z: 1288.5689770392416
+    yaw: -87.19073486328125
+    pitch: 14.700736045837402
